@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <junit.version>4.13.1</junit.version>
-        <cucumber.version>4.2.6</cucumber.version>
+        <cucumber.version>6.9.0</cucumber.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <maven.surefire.version>2.22.2</maven.surefire.version>
 
@@ -62,32 +62,11 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.14.3</version>
-            <scope>test</scope>
-        </dependency>
 
         <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-testng</artifactId>
-            <version>${cucumber.version}</version>
-            <scope>test</scope>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
-            <version>4.1.2</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml</artifactId>
-            <version>4.1.2</version>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
         </dependency>
 
     </dependencies>
@@ -104,22 +83,39 @@
                     <target>${java.version}</target>
                 </configuration>
             </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>${maven.surefire.version}</version>
-                <configuration>
-                    <includes>
-                        <include>**/ParallelRun.java</include>
-                    </includes>
-                    <parallel>methods</parallel>
-                    <threadCount>4</threadCount>
-                    <useUnlimitedThreads>false</useUnlimitedThreads>
-                </configuration>
+                <artifactId>maven-failsafe-plugin</artifactId>
+                <version>3.0.0-M3</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>integration-test</goal>
+                        </goals>
+                        <configuration>
+
+                            <includes>
+
+                                <include>**/*TestRunner.java</include>
+
+                            </includes>
+                            <parallel>methods</parallel>
+                            <threadCount>5</threadCount>
+                            <perCoreThreadCount>true</perCoreThreadCount>
+
+                            <systemPropertyVariables>
+                                <extent.reporter.spark.start>true</extent.reporter.spark.start>
+                                <extent.reporter.spark.out>test-output/SparkReport/Spark.html
+                                </extent.reporter.spark.out>
+                            </systemPropertyVariables>
+
+                        </configuration>
+                    </execution>
+                </executions>
             </plugin>
 
         </plugins>
     </build>
-
 
 </project>

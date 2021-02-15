@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testrunners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 154.404 sec <<< FAILURE!
+Try to login with Invalid credentials #3(Login page feature)  Time elapsed: 11.138 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at StepDefinations.LoginPageSteps.userShouldGetErrorMessage(LoginPageSteps.java:67)
+	at ?.user should get Error message(file:///E:/Automation/CucumberJunitFrameWork/src/test/resources/AppFeatures/Login.feature:19)
+

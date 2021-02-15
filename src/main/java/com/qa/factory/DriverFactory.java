@@ -9,10 +9,11 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class DriverFactory {
 
     public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<>();
-    /*
-        This methods is used to inilization the thread local
 
-
+    /***
+     * this method is used to initialization the method
+     * @param browser = name of the browser
+     * @return current instance of the driver
      */
     public WebDriver init_driver(String browser)
     {
@@ -39,8 +40,9 @@ public class DriverFactory {
         return getDriver();
     }
 
-    /*
-    This is used to get the driver with ThreadLocal
+    /***
+     * This is used to get the driver with ThreadLocal
+     * @return thread of current driver
      */
     public static synchronized WebDriver getDriver()
     {
