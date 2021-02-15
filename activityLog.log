@@ -1047,3 +1047,1052 @@
 15 Feb 2021 23:04:34,591 main - Loaded SymbolMT from C:\WINDOWS\FONTS\symbol.ttf
 15 Feb 2021 23:04:34,595 main - getFont('TTF','MS-Gothic') returns MS-Gothic (TTF, mac: 0x0, os/2: 0x801, cid: null) C:\WINDOWS\FONTS\msgothic.ttc
 15 Feb 2021 23:04:34,599 main - Loaded MS-Gothic from C:\WINDOWS\FONTS\msgothic.ttc
+16 Feb 2021 01:16:33,541 main - Validating login page Title
+16 Feb 2021 01:16:33,587 main - Login Page Title: Careers at Mitigram
+16 Feb 2021 01:16:47,500 main - Total count of Open Position = 7
+16 Feb 2021 01:16:48,143 main - List of Open Position = [Open positions, Sales Director, Sales Director, Experienced Product Manager, Technical Product Manager, Back-End Software Engineer, Front-End Software Engineer]
+16 Feb 2021 01:17:39,957 main - Validating login page Title
+16 Feb 2021 01:17:39,981 main - Login Page Title: Mitigram
+16 Feb 2021 01:17:51,828 main - Validating the forget password link
+16 Feb 2021 01:18:03,817 main - Validating the error message is display
+16 Feb 2021 01:18:17,117 main - Validating the error message is display
+16 Feb 2021 01:18:28,603 main - Validating the error message is display
+16 Feb 2021 01:18:52,001 main - Size of the link on webPage ==========> 8
+16 Feb 2021 01:18:53,238 main - https://marketplace.mitigram.com/===========>200
+16 Feb 2021 01:18:53,375 main - https://marketplace.mitigram.com/Account/Login?ReturnUrl=%2f#===========>200
+16 Feb 2021 01:18:53,466 main - https://marketplace.mitigram.com/account/forgot-password===========>200
+16 Feb 2021 01:18:53,558 main - https://marketplace.mitigram.com/Account/Login?ReturnUrl=%2f#===========>200
+16 Feb 2021 01:18:54,796 main - https://apps.apple.com/app/mitigram/id1453993945===========>200
+16 Feb 2021 01:18:55,118 main - https://play.google.com/store/apps/details?id=com.mitigram.marketplace===========>200
+16 Feb 2021 01:18:55,376 main - https://mitigram.com/#contact===========>200
+16 Feb 2021 01:18:55,485 main - https://marketplace.mitigram.com/Account/Login?ReturnUrl=%2f#===========>200
+16 Feb 2021 01:19:06,528 main - Validating contact link
+16 Feb 2021 01:19:18,362 main - Validating the Apple store Link
+16 Feb 2021 01:19:18,482 main - Validating the Google Play Link
+16 Feb 2021 01:19:19,566 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:19,570 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+16 Feb 2021 01:19:19,576 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+16 Feb 2021 01:19:19,579 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+16 Feb 2021 01:19:19,580 main - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+16 Feb 2021 01:19:19,840 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:19,841 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+16 Feb 2021 01:19:19,842 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+16 Feb 2021 01:19:19,843 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+16 Feb 2021 01:19:19,844 main - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+16 Feb 2021 01:19:20,090 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,091 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,091 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+16 Feb 2021 01:19:20,091 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+16 Feb 2021 01:19:20,092 main - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+16 Feb 2021 01:19:20,109 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,110 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,111 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+16 Feb 2021 01:19:20,111 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+16 Feb 2021 01:19:20,112 main - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+16 Feb 2021 01:19:20,115 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,115 main - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,116 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+16 Feb 2021 01:19:20,116 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+16 Feb 2021 01:19:20,117 main - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+16 Feb 2021 01:19:20,119 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,121 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,121 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+16 Feb 2021 01:19:20,122 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+16 Feb 2021 01:19:20,122 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+16 Feb 2021 01:19:20,147 main - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+16 Feb 2021 01:19:20,150 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,150 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,151 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+16 Feb 2021 01:19:20,152 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+16 Feb 2021 01:19:20,157 main - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+16 Feb 2021 01:19:20,172 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,173 main - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,173 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+16 Feb 2021 01:19:20,174 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+16 Feb 2021 01:19:20,174 main - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+16 Feb 2021 01:19:20,177 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,177 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,178 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+16 Feb 2021 01:19:20,178 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+16 Feb 2021 01:19:20,178 main - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+16 Feb 2021 01:19:20,179 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,180 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,180 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+16 Feb 2021 01:19:20,180 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+16 Feb 2021 01:19:20,180 main - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+16 Feb 2021 01:19:20,187 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,188 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,189 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+16 Feb 2021 01:19:20,189 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+16 Feb 2021 01:19:20,189 main - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+16 Feb 2021 01:19:20,204 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,204 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,205 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+16 Feb 2021 01:19:20,205 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+16 Feb 2021 01:19:20,205 main - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+16 Feb 2021 01:19:20,281 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,282 main - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,283 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+16 Feb 2021 01:19:20,283 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+16 Feb 2021 01:19:20,284 main - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+16 Feb 2021 01:19:20,296 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,297 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,298 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+16 Feb 2021 01:19:20,298 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+16 Feb 2021 01:19:20,301 main - Loading template for "spark/partials/bdd-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+16 Feb 2021 01:19:20,333 main - "spark/partials/bdd-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+16 Feb 2021 01:19:20,344 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,345 main - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,346 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+16 Feb 2021 01:19:20,346 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+16 Feb 2021 01:19:20,346 main - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+16 Feb 2021 01:19:20,363 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,365 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,368 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+16 Feb 2021 01:19:20,369 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+16 Feb 2021 01:19:20,369 main - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+16 Feb 2021 01:19:20,374 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,375 main - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,376 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+16 Feb 2021 01:19:20,377 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+16 Feb 2021 01:19:20,377 main - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+16 Feb 2021 01:19:20,378 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,379 main - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,380 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+16 Feb 2021 01:19:20,381 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+16 Feb 2021 01:19:20,381 main - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+16 Feb 2021 01:19:20,384 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,385 main - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,385 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+16 Feb 2021 01:19:20,386 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+16 Feb 2021 01:19:20,387 main - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+16 Feb 2021 01:19:20,390 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,391 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,392 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+16 Feb 2021 01:19:20,392 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+16 Feb 2021 01:19:20,392 main - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+16 Feb 2021 01:19:20,394 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Feb 2021 01:19:20,394 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+16 Feb 2021 01:19:20,395 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+16 Feb 2021 01:19:20,396 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+16 Feb 2021 01:19:20,396 main - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jayant.kale/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+16 Feb 2021 01:19:21,117 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,117 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,117 main - Type 6 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,118 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,118 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,197 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,198 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,198 main - Type 6 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,198 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,198 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,212 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,212 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,212 main - Type 6 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,213 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,213 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,225 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,226 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,226 main - Type 6 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,226 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:21,226 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,705 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,705 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,706 main - Type 6 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,706 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,706 main - Type 4 GSUB lookup table is not supported and will be ignored
+16 Feb 2021 01:19:22,886 main - checkFontfile check C:\WINDOWS\FONTS\8514fix.fon
+16 Feb 2021 01:19:22,887 main - checkFontfile check C:\WINDOWS\FONTS\8514fixe.fon
+16 Feb 2021 01:19:22,888 main - checkFontfile check C:\WINDOWS\FONTS\8514fixg.fon
+16 Feb 2021 01:19:22,888 main - checkFontfile check C:\WINDOWS\FONTS\8514fixr.fon
+16 Feb 2021 01:19:22,889 main - checkFontfile check C:\WINDOWS\FONTS\8514fixt.fon
+16 Feb 2021 01:19:22,889 main - checkFontfile check C:\WINDOWS\FONTS\8514oem.fon
+16 Feb 2021 01:19:22,890 main - checkFontfile check C:\WINDOWS\FONTS\8514oeme.fon
+16 Feb 2021 01:19:22,890 main - checkFontfile check C:\WINDOWS\FONTS\8514oemg.fon
+16 Feb 2021 01:19:22,891 main - checkFontfile check C:\WINDOWS\FONTS\8514oemr.fon
+16 Feb 2021 01:19:22,891 main - checkFontfile check C:\WINDOWS\FONTS\8514oemt.fon
+16 Feb 2021 01:19:22,892 main - checkFontfile check C:\WINDOWS\FONTS\8514sys.fon
+16 Feb 2021 01:19:22,892 main - checkFontfile check C:\WINDOWS\FONTS\8514syse.fon
+16 Feb 2021 01:19:22,893 main - checkFontfile check C:\WINDOWS\FONTS\8514sysg.fon
+16 Feb 2021 01:19:22,893 main - checkFontfile check C:\WINDOWS\FONTS\8514sysr.fon
+16 Feb 2021 01:19:22,893 main - checkFontfile check C:\WINDOWS\FONTS\8514syst.fon
+16 Feb 2021 01:19:22,894 main - checkFontfile check C:\WINDOWS\FONTS\85775.fon
+16 Feb 2021 01:19:22,894 main - checkFontfile check C:\WINDOWS\FONTS\85855.fon
+16 Feb 2021 01:19:22,895 main - checkFontfile check C:\WINDOWS\FONTS\85f1255.fon
+16 Feb 2021 01:19:22,895 main - checkFontfile check C:\WINDOWS\FONTS\85f1256.fon
+16 Feb 2021 01:19:22,895 main - checkFontfile check C:\WINDOWS\FONTS\85f1257.fon
+16 Feb 2021 01:19:22,896 main - checkFontfile check C:\WINDOWS\FONTS\85f874.fon
+16 Feb 2021 01:19:22,897 main - checkFontfile check C:\WINDOWS\FONTS\85s1255.fon
+16 Feb 2021 01:19:22,897 main - checkFontfile check C:\WINDOWS\FONTS\85s1256.fon
+16 Feb 2021 01:19:22,897 main - checkFontfile check C:\WINDOWS\FONTS\85s1257.fon
+16 Feb 2021 01:19:22,898 main - checkFontfile check C:\WINDOWS\FONTS\85s874.fon
+16 Feb 2021 01:19:22,899 main - checkFontfile check C:\WINDOWS\FONTS\AGENCYB.TTF
+16 Feb 2021 01:19:22,899 main - checkFontfile found C:\WINDOWS\FONTS\AGENCYB.TTF
+16 Feb 2021 01:19:22,899 main - checkFontfile check C:\WINDOWS\FONTS\AGENCYR.TTF
+16 Feb 2021 01:19:22,900 main - checkFontfile found C:\WINDOWS\FONTS\AGENCYR.TTF
+16 Feb 2021 01:19:22,900 main - checkFontfile check C:\WINDOWS\FONTS\ALGER.TTF
+16 Feb 2021 01:19:22,900 main - checkFontfile found C:\WINDOWS\FONTS\ALGER.TTF
+16 Feb 2021 01:19:22,900 main - checkFontfile check C:\WINDOWS\FONTS\ANTQUAB.TTF
+16 Feb 2021 01:19:22,901 main - checkFontfile found C:\WINDOWS\FONTS\ANTQUAB.TTF
+16 Feb 2021 01:19:22,901 main - checkFontfile check C:\WINDOWS\FONTS\ANTQUABI.TTF
+16 Feb 2021 01:19:22,901 main - checkFontfile found C:\WINDOWS\FONTS\ANTQUABI.TTF
+16 Feb 2021 01:19:22,902 main - checkFontfile check C:\WINDOWS\FONTS\ANTQUAI.TTF
+16 Feb 2021 01:19:22,902 main - checkFontfile found C:\WINDOWS\FONTS\ANTQUAI.TTF
+16 Feb 2021 01:19:22,902 main - checkFontfile check C:\WINDOWS\FONTS\app775.fon
+16 Feb 2021 01:19:22,903 main - checkFontfile check C:\WINDOWS\FONTS\app850.fon
+16 Feb 2021 01:19:22,904 main - checkFontfile check C:\WINDOWS\FONTS\app852.fon
+16 Feb 2021 01:19:22,906 main - checkFontfile check C:\WINDOWS\FONTS\app855.fon
+16 Feb 2021 01:19:22,906 main - checkFontfile check C:\WINDOWS\FONTS\app857.fon
+16 Feb 2021 01:19:22,906 main - checkFontfile check C:\WINDOWS\FONTS\app866.fon
+16 Feb 2021 01:19:22,907 main - checkFontfile check C:\WINDOWS\FONTS\app932.fon
+16 Feb 2021 01:19:22,907 main - checkFontfile check C:\WINDOWS\FONTS\app936.fon
+16 Feb 2021 01:19:22,907 main - checkFontfile check C:\WINDOWS\FONTS\app949.fon
+16 Feb 2021 01:19:22,908 main - checkFontfile check C:\WINDOWS\FONTS\app950.fon
+16 Feb 2021 01:19:22,908 main - checkFontfile check C:\WINDOWS\FONTS\arial.ttf
+16 Feb 2021 01:19:22,908 main - checkFontfile found C:\WINDOWS\FONTS\arial.ttf
+16 Feb 2021 01:19:22,909 main - checkFontfile check C:\WINDOWS\FONTS\arialbd.ttf
+16 Feb 2021 01:19:22,909 main - checkFontfile found C:\WINDOWS\FONTS\arialbd.ttf
+16 Feb 2021 01:19:22,909 main - checkFontfile check C:\WINDOWS\FONTS\arialbi.ttf
+16 Feb 2021 01:19:22,909 main - checkFontfile found C:\WINDOWS\FONTS\arialbi.ttf
+16 Feb 2021 01:19:22,910 main - checkFontfile check C:\WINDOWS\FONTS\ariali.ttf
+16 Feb 2021 01:19:22,910 main - checkFontfile found C:\WINDOWS\FONTS\ariali.ttf
+16 Feb 2021 01:19:22,910 main - checkFontfile check C:\WINDOWS\FONTS\ARIALN.TTF
+16 Feb 2021 01:19:22,911 main - checkFontfile found C:\WINDOWS\FONTS\ARIALN.TTF
+16 Feb 2021 01:19:22,911 main - checkFontfile check C:\WINDOWS\FONTS\ARIALNB.TTF
+16 Feb 2021 01:19:22,911 main - checkFontfile found C:\WINDOWS\FONTS\ARIALNB.TTF
+16 Feb 2021 01:19:22,912 main - checkFontfile check C:\WINDOWS\FONTS\ARIALNBI.TTF
+16 Feb 2021 01:19:22,912 main - checkFontfile found C:\WINDOWS\FONTS\ARIALNBI.TTF
+16 Feb 2021 01:19:22,912 main - checkFontfile check C:\WINDOWS\FONTS\ARIALNI.TTF
+16 Feb 2021 01:19:22,912 main - checkFontfile found C:\WINDOWS\FONTS\ARIALNI.TTF
+16 Feb 2021 01:19:22,913 main - checkFontfile check C:\WINDOWS\FONTS\ariblk.ttf
+16 Feb 2021 01:19:22,913 main - checkFontfile found C:\WINDOWS\FONTS\ariblk.ttf
+16 Feb 2021 01:19:22,913 main - checkFontfile check C:\WINDOWS\FONTS\ARLRDBD.TTF
+16 Feb 2021 01:19:22,913 main - checkFontfile found C:\WINDOWS\FONTS\ARLRDBD.TTF
+16 Feb 2021 01:19:22,914 main - checkFontfile check C:\WINDOWS\FONTS\BASKVILL.TTF
+16 Feb 2021 01:19:22,914 main - checkFontfile found C:\WINDOWS\FONTS\BASKVILL.TTF
+16 Feb 2021 01:19:22,914 main - checkFontfile check C:\WINDOWS\FONTS\BAUHS93.TTF
+16 Feb 2021 01:19:22,914 main - checkFontfile found C:\WINDOWS\FONTS\BAUHS93.TTF
+16 Feb 2021 01:19:22,915 main - checkFontfile check C:\WINDOWS\FONTS\BELL.TTF
+16 Feb 2021 01:19:22,915 main - checkFontfile found C:\WINDOWS\FONTS\BELL.TTF
+16 Feb 2021 01:19:22,915 main - checkFontfile check C:\WINDOWS\FONTS\BELLB.TTF
+16 Feb 2021 01:19:22,916 main - checkFontfile found C:\WINDOWS\FONTS\BELLB.TTF
+16 Feb 2021 01:19:22,916 main - checkFontfile check C:\WINDOWS\FONTS\BELLI.TTF
+16 Feb 2021 01:19:22,916 main - checkFontfile found C:\WINDOWS\FONTS\BELLI.TTF
+16 Feb 2021 01:19:22,917 main - checkFontfile check C:\WINDOWS\FONTS\BERNHC.TTF
+16 Feb 2021 01:19:22,917 main - checkFontfile found C:\WINDOWS\FONTS\BERNHC.TTF
+16 Feb 2021 01:19:22,917 main - checkFontfile check C:\WINDOWS\FONTS\BKANT.TTF
+16 Feb 2021 01:19:22,917 main - checkFontfile found C:\WINDOWS\FONTS\BKANT.TTF
+16 Feb 2021 01:19:22,918 main - checkFontfile check C:\WINDOWS\FONTS\BOD_B.TTF
+16 Feb 2021 01:19:22,918 main - checkFontfile found C:\WINDOWS\FONTS\BOD_B.TTF
+16 Feb 2021 01:19:22,919 main - checkFontfile check C:\WINDOWS\FONTS\BOD_BI.TTF
+16 Feb 2021 01:19:22,919 main - checkFontfile found C:\WINDOWS\FONTS\BOD_BI.TTF
+16 Feb 2021 01:19:22,919 main - checkFontfile check C:\WINDOWS\FONTS\BOD_BLAI.TTF
+16 Feb 2021 01:19:22,920 main - checkFontfile found C:\WINDOWS\FONTS\BOD_BLAI.TTF
+16 Feb 2021 01:19:22,920 main - checkFontfile check C:\WINDOWS\FONTS\BOD_BLAR.TTF
+16 Feb 2021 01:19:22,920 main - checkFontfile found C:\WINDOWS\FONTS\BOD_BLAR.TTF
+16 Feb 2021 01:19:22,921 main - checkFontfile check C:\WINDOWS\FONTS\BOD_CB.TTF
+16 Feb 2021 01:19:22,921 main - checkFontfile found C:\WINDOWS\FONTS\BOD_CB.TTF
+16 Feb 2021 01:19:22,921 main - checkFontfile check C:\WINDOWS\FONTS\BOD_CBI.TTF
+16 Feb 2021 01:19:22,922 main - checkFontfile found C:\WINDOWS\FONTS\BOD_CBI.TTF
+16 Feb 2021 01:19:22,922 main - checkFontfile check C:\WINDOWS\FONTS\BOD_CI.TTF
+16 Feb 2021 01:19:22,922 main - checkFontfile found C:\WINDOWS\FONTS\BOD_CI.TTF
+16 Feb 2021 01:19:22,922 main - checkFontfile check C:\WINDOWS\FONTS\BOD_CR.TTF
+16 Feb 2021 01:19:22,922 main - checkFontfile found C:\WINDOWS\FONTS\BOD_CR.TTF
+16 Feb 2021 01:19:22,923 main - checkFontfile check C:\WINDOWS\FONTS\BOD_I.TTF
+16 Feb 2021 01:19:22,923 main - checkFontfile found C:\WINDOWS\FONTS\BOD_I.TTF
+16 Feb 2021 01:19:22,924 main - checkFontfile check C:\WINDOWS\FONTS\BOD_PSTC.TTF
+16 Feb 2021 01:19:22,924 main - checkFontfile found C:\WINDOWS\FONTS\BOD_PSTC.TTF
+16 Feb 2021 01:19:22,924 main - checkFontfile check C:\WINDOWS\FONTS\BOD_R.TTF
+16 Feb 2021 01:19:22,924 main - checkFontfile found C:\WINDOWS\FONTS\BOD_R.TTF
+16 Feb 2021 01:19:22,925 main - checkFontfile check C:\WINDOWS\FONTS\BOOKOS.TTF
+16 Feb 2021 01:19:22,925 main - checkFontfile found C:\WINDOWS\FONTS\BOOKOS.TTF
+16 Feb 2021 01:19:22,925 main - checkFontfile check C:\WINDOWS\FONTS\BOOKOSB.TTF
+16 Feb 2021 01:19:22,925 main - checkFontfile found C:\WINDOWS\FONTS\BOOKOSB.TTF
+16 Feb 2021 01:19:22,926 main - checkFontfile check C:\WINDOWS\FONTS\BOOKOSBI.TTF
+16 Feb 2021 01:19:22,926 main - checkFontfile found C:\WINDOWS\FONTS\BOOKOSBI.TTF
+16 Feb 2021 01:19:22,926 main - checkFontfile check C:\WINDOWS\FONTS\BOOKOSI.TTF
+16 Feb 2021 01:19:22,927 main - checkFontfile found C:\WINDOWS\FONTS\BOOKOSI.TTF
+16 Feb 2021 01:19:22,927 main - checkFontfile check C:\WINDOWS\FONTS\BRADHITC.TTF
+16 Feb 2021 01:19:22,927 main - checkFontfile found C:\WINDOWS\FONTS\BRADHITC.TTF
+16 Feb 2021 01:19:22,928 main - checkFontfile check C:\WINDOWS\FONTS\BRITANIC.TTF
+16 Feb 2021 01:19:22,928 main - checkFontfile found C:\WINDOWS\FONTS\BRITANIC.TTF
+16 Feb 2021 01:19:22,928 main - checkFontfile check C:\WINDOWS\FONTS\BRLNSB.TTF
+16 Feb 2021 01:19:22,929 main - checkFontfile found C:\WINDOWS\FONTS\BRLNSB.TTF
+16 Feb 2021 01:19:22,929 main - checkFontfile check C:\WINDOWS\FONTS\BRLNSDB.TTF
+16 Feb 2021 01:19:22,929 main - checkFontfile found C:\WINDOWS\FONTS\BRLNSDB.TTF
+16 Feb 2021 01:19:22,930 main - checkFontfile check C:\WINDOWS\FONTS\BRLNSR.TTF
+16 Feb 2021 01:19:22,930 main - checkFontfile found C:\WINDOWS\FONTS\BRLNSR.TTF
+16 Feb 2021 01:19:22,930 main - checkFontfile check C:\WINDOWS\FONTS\BROADW.TTF
+16 Feb 2021 01:19:22,931 main - checkFontfile found C:\WINDOWS\FONTS\BROADW.TTF
+16 Feb 2021 01:19:22,931 main - checkFontfile check C:\WINDOWS\FONTS\BRUSHSCI.TTF
+16 Feb 2021 01:19:22,931 main - checkFontfile found C:\WINDOWS\FONTS\BRUSHSCI.TTF
+16 Feb 2021 01:19:22,932 main - checkFontfile check C:\WINDOWS\FONTS\BSSYM7.TTF
+16 Feb 2021 01:19:22,932 main - checkFontfile found C:\WINDOWS\FONTS\BSSYM7.TTF
+16 Feb 2021 01:19:22,933 main - checkFontfile check C:\WINDOWS\FONTS\c8514fix.fon
+16 Feb 2021 01:19:22,933 main - checkFontfile check C:\WINDOWS\FONTS\c8514oem.fon
+16 Feb 2021 01:19:22,934 main - checkFontfile check C:\WINDOWS\FONTS\c8514sys.fon
+16 Feb 2021 01:19:22,934 main - checkFontfile check C:\WINDOWS\FONTS\calibri.ttf
+16 Feb 2021 01:19:22,934 main - checkFontfile found C:\WINDOWS\FONTS\calibri.ttf
+16 Feb 2021 01:19:22,935 main - checkFontfile check C:\WINDOWS\FONTS\calibrib.ttf
+16 Feb 2021 01:19:22,935 main - checkFontfile found C:\WINDOWS\FONTS\calibrib.ttf
+16 Feb 2021 01:19:22,935 main - checkFontfile check C:\WINDOWS\FONTS\calibrii.ttf
+16 Feb 2021 01:19:22,936 main - checkFontfile found C:\WINDOWS\FONTS\calibrii.ttf
+16 Feb 2021 01:19:22,938 main - checkFontfile check C:\WINDOWS\FONTS\calibril.ttf
+16 Feb 2021 01:19:22,938 main - checkFontfile found C:\WINDOWS\FONTS\calibril.ttf
+16 Feb 2021 01:19:22,939 main - checkFontfile check C:\WINDOWS\FONTS\calibrili.ttf
+16 Feb 2021 01:19:22,939 main - checkFontfile found C:\WINDOWS\FONTS\calibrili.ttf
+16 Feb 2021 01:19:22,940 main - checkFontfile check C:\WINDOWS\FONTS\calibriz.ttf
+16 Feb 2021 01:19:22,940 main - checkFontfile found C:\WINDOWS\FONTS\calibriz.ttf
+16 Feb 2021 01:19:22,941 main - checkFontfile check C:\WINDOWS\FONTS\CALIFB.TTF
+16 Feb 2021 01:19:22,941 main - checkFontfile found C:\WINDOWS\FONTS\CALIFB.TTF
+16 Feb 2021 01:19:22,941 main - checkFontfile check C:\WINDOWS\FONTS\CALIFI.TTF
+16 Feb 2021 01:19:22,942 main - checkFontfile found C:\WINDOWS\FONTS\CALIFI.TTF
+16 Feb 2021 01:19:22,942 main - checkFontfile check C:\WINDOWS\FONTS\CALIFR.TTF
+16 Feb 2021 01:19:22,942 main - checkFontfile found C:\WINDOWS\FONTS\CALIFR.TTF
+16 Feb 2021 01:19:22,942 main - checkFontfile check C:\WINDOWS\FONTS\CALIST.TTF
+16 Feb 2021 01:19:22,942 main - checkFontfile found C:\WINDOWS\FONTS\CALIST.TTF
+16 Feb 2021 01:19:22,943 main - checkFontfile check C:\WINDOWS\FONTS\CALISTB.TTF
+16 Feb 2021 01:19:22,943 main - checkFontfile found C:\WINDOWS\FONTS\CALISTB.TTF
+16 Feb 2021 01:19:22,943 main - checkFontfile check C:\WINDOWS\FONTS\CALISTBI.TTF
+16 Feb 2021 01:19:22,943 main - checkFontfile found C:\WINDOWS\FONTS\CALISTBI.TTF
+16 Feb 2021 01:19:22,943 main - checkFontfile check C:\WINDOWS\FONTS\CALISTI.TTF
+16 Feb 2021 01:19:22,944 main - checkFontfile found C:\WINDOWS\FONTS\CALISTI.TTF
+16 Feb 2021 01:19:22,944 main - checkFontfile check C:\WINDOWS\FONTS\cambria.ttc
+16 Feb 2021 01:19:22,944 main - checkFontfile found C:\WINDOWS\FONTS\cambria.ttc
+16 Feb 2021 01:19:22,945 main - checkFontfile check C:\WINDOWS\FONTS\cambriab.ttf
+16 Feb 2021 01:19:22,945 main - checkFontfile found C:\WINDOWS\FONTS\cambriab.ttf
+16 Feb 2021 01:19:22,945 main - checkFontfile check C:\WINDOWS\FONTS\cambriai.ttf
+16 Feb 2021 01:19:22,945 main - checkFontfile found C:\WINDOWS\FONTS\cambriai.ttf
+16 Feb 2021 01:19:22,946 main - checkFontfile check C:\WINDOWS\FONTS\cambriaz.ttf
+16 Feb 2021 01:19:22,946 main - checkFontfile found C:\WINDOWS\FONTS\cambriaz.ttf
+16 Feb 2021 01:19:22,946 main - checkFontfile check C:\WINDOWS\FONTS\Candara.ttf
+16 Feb 2021 01:19:22,947 main - checkFontfile found C:\WINDOWS\FONTS\Candara.ttf
+16 Feb 2021 01:19:22,947 main - checkFontfile check C:\WINDOWS\FONTS\Candarab.ttf
+16 Feb 2021 01:19:22,947 main - checkFontfile found C:\WINDOWS\FONTS\Candarab.ttf
+16 Feb 2021 01:19:22,948 main - checkFontfile check C:\WINDOWS\FONTS\Candarai.ttf
+16 Feb 2021 01:19:22,948 main - checkFontfile found C:\WINDOWS\FONTS\Candarai.ttf
+16 Feb 2021 01:19:22,948 main - checkFontfile check C:\WINDOWS\FONTS\Candaraz.ttf
+16 Feb 2021 01:19:22,948 main - checkFontfile found C:\WINDOWS\FONTS\Candaraz.ttf
+16 Feb 2021 01:19:22,949 main - checkFontfile check C:\WINDOWS\FONTS\CASTELAR.TTF
+16 Feb 2021 01:19:22,949 main - checkFontfile found C:\WINDOWS\FONTS\CASTELAR.TTF
+16 Feb 2021 01:19:22,949 main - checkFontfile check C:\WINDOWS\FONTS\CENSCBK.TTF
+16 Feb 2021 01:19:22,950 main - checkFontfile found C:\WINDOWS\FONTS\CENSCBK.TTF
+16 Feb 2021 01:19:22,950 main - checkFontfile check C:\WINDOWS\FONTS\CENTAUR.TTF
+16 Feb 2021 01:19:22,950 main - checkFontfile found C:\WINDOWS\FONTS\CENTAUR.TTF
+16 Feb 2021 01:19:22,951 main - checkFontfile check C:\WINDOWS\FONTS\CENTURY.TTF
+16 Feb 2021 01:19:22,951 main - checkFontfile found C:\WINDOWS\FONTS\CENTURY.TTF
+16 Feb 2021 01:19:22,951 main - checkFontfile check C:\WINDOWS\FONTS\cga40737.fon
+16 Feb 2021 01:19:22,967 main - checkFontfile check C:\WINDOWS\FONTS\cga40850.fon
+16 Feb 2021 01:19:22,969 main - checkFontfile check C:\WINDOWS\FONTS\cga40852.fon
+16 Feb 2021 01:19:22,974 main - checkFontfile check C:\WINDOWS\FONTS\cga40857.fon
+16 Feb 2021 01:19:22,991 main - checkFontfile check C:\WINDOWS\FONTS\cga40866.fon
+16 Feb 2021 01:19:22,991 main - checkFontfile check C:\WINDOWS\FONTS\cga40869.fon
+16 Feb 2021 01:19:22,991 main - checkFontfile check C:\WINDOWS\FONTS\cga40woa.fon
+16 Feb 2021 01:19:22,992 main - checkFontfile check C:\WINDOWS\FONTS\cga80737.fon
+16 Feb 2021 01:19:22,997 main - checkFontfile check C:\WINDOWS\FONTS\cga80850.fon
+16 Feb 2021 01:19:22,997 main - checkFontfile check C:\WINDOWS\FONTS\cga80852.fon
+16 Feb 2021 01:19:22,998 main - checkFontfile check C:\WINDOWS\FONTS\cga80857.fon
+16 Feb 2021 01:19:22,998 main - checkFontfile check C:\WINDOWS\FONTS\cga80866.fon
+16 Feb 2021 01:19:22,999 main - checkFontfile check C:\WINDOWS\FONTS\cga80869.fon
+16 Feb 2021 01:19:22,999 main - checkFontfile check C:\WINDOWS\FONTS\cga80woa.fon
+16 Feb 2021 01:19:22,999 main - checkFontfile check C:\WINDOWS\FONTS\CHILLER.TTF
+16 Feb 2021 01:19:22,999 main - checkFontfile found C:\WINDOWS\FONTS\CHILLER.TTF
+16 Feb 2021 01:19:23,000 main - checkFontfile check C:\WINDOWS\FONTS\COLONNA.TTF
+16 Feb 2021 01:19:23,001 main - checkFontfile found C:\WINDOWS\FONTS\COLONNA.TTF
+16 Feb 2021 01:19:23,001 main - checkFontfile check C:\WINDOWS\FONTS\comic.ttf
+16 Feb 2021 01:19:23,001 main - checkFontfile found C:\WINDOWS\FONTS\comic.ttf
+16 Feb 2021 01:19:23,004 main - checkFontfile check C:\WINDOWS\FONTS\comicbd.ttf
+16 Feb 2021 01:19:23,004 main - checkFontfile found C:\WINDOWS\FONTS\comicbd.ttf
+16 Feb 2021 01:19:23,005 main - checkFontfile check C:\WINDOWS\FONTS\comici.ttf
+16 Feb 2021 01:19:23,005 main - checkFontfile found C:\WINDOWS\FONTS\comici.ttf
+16 Feb 2021 01:19:23,006 main - checkFontfile check C:\WINDOWS\FONTS\comicz.ttf
+16 Feb 2021 01:19:23,006 main - checkFontfile found C:\WINDOWS\FONTS\comicz.ttf
+16 Feb 2021 01:19:23,007 main - checkFontfile check C:\WINDOWS\FONTS\consola.ttf
+16 Feb 2021 01:19:23,007 main - checkFontfile found C:\WINDOWS\FONTS\consola.ttf
+16 Feb 2021 01:19:23,007 main - checkFontfile check C:\WINDOWS\FONTS\consolab.ttf
+16 Feb 2021 01:19:23,007 main - checkFontfile found C:\WINDOWS\FONTS\consolab.ttf
+16 Feb 2021 01:19:23,008 main - checkFontfile check C:\WINDOWS\FONTS\consolai.ttf
+16 Feb 2021 01:19:23,008 main - checkFontfile found C:\WINDOWS\FONTS\consolai.ttf
+16 Feb 2021 01:19:23,008 main - checkFontfile check C:\WINDOWS\FONTS\consolaz.ttf
+16 Feb 2021 01:19:23,008 main - checkFontfile found C:\WINDOWS\FONTS\consolaz.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile check C:\WINDOWS\FONTS\constan.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile found C:\WINDOWS\FONTS\constan.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile check C:\WINDOWS\FONTS\constanb.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile found C:\WINDOWS\FONTS\constanb.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile check C:\WINDOWS\FONTS\constani.ttf
+16 Feb 2021 01:19:23,009 main - checkFontfile found C:\WINDOWS\FONTS\constani.ttf
+16 Feb 2021 01:19:23,010 main - checkFontfile check C:\WINDOWS\FONTS\constanz.ttf
+16 Feb 2021 01:19:23,010 main - checkFontfile found C:\WINDOWS\FONTS\constanz.ttf
+16 Feb 2021 01:19:23,011 main - checkFontfile check C:\WINDOWS\FONTS\COOPBL.TTF
+16 Feb 2021 01:19:23,011 main - checkFontfile found C:\WINDOWS\FONTS\COOPBL.TTF
+16 Feb 2021 01:19:23,011 main - checkFontfile check C:\WINDOWS\FONTS\COPRGTB.TTF
+16 Feb 2021 01:19:23,011 main - checkFontfile found C:\WINDOWS\FONTS\COPRGTB.TTF
+16 Feb 2021 01:19:23,012 main - checkFontfile check C:\WINDOWS\FONTS\COPRGTL.TTF
+16 Feb 2021 01:19:23,012 main - checkFontfile found C:\WINDOWS\FONTS\COPRGTL.TTF
+16 Feb 2021 01:19:23,012 main - checkFontfile check C:\WINDOWS\FONTS\corbel.ttf
+16 Feb 2021 01:19:23,013 main - checkFontfile found C:\WINDOWS\FONTS\corbel.ttf
+16 Feb 2021 01:19:23,013 main - checkFontfile check C:\WINDOWS\FONTS\corbelb.ttf
+16 Feb 2021 01:19:23,013 main - checkFontfile found C:\WINDOWS\FONTS\corbelb.ttf
+16 Feb 2021 01:19:23,014 main - checkFontfile check C:\WINDOWS\FONTS\corbeli.ttf
+16 Feb 2021 01:19:23,014 main - checkFontfile found C:\WINDOWS\FONTS\corbeli.ttf
+16 Feb 2021 01:19:23,014 main - checkFontfile check C:\WINDOWS\FONTS\corbelz.ttf
+16 Feb 2021 01:19:23,014 main - checkFontfile found C:\WINDOWS\FONTS\corbelz.ttf
+16 Feb 2021 01:19:23,018 main - checkFontfile check C:\WINDOWS\FONTS\coue1255.fon
+16 Feb 2021 01:19:23,019 main - checkFontfile check C:\WINDOWS\FONTS\coue1256.fon
+16 Feb 2021 01:19:23,019 main - checkFontfile check C:\WINDOWS\FONTS\coue1257.fon
+16 Feb 2021 01:19:23,020 main - checkFontfile check C:\WINDOWS\FONTS\couf1255.fon
+16 Feb 2021 01:19:23,021 main - checkFontfile check C:\WINDOWS\FONTS\couf1256.fon
+16 Feb 2021 01:19:23,021 main - checkFontfile check C:\WINDOWS\FONTS\couf1257.fon
+16 Feb 2021 01:19:23,022 main - checkFontfile check C:\WINDOWS\FONTS\cour.ttf
+16 Feb 2021 01:19:23,022 main - checkFontfile found C:\WINDOWS\FONTS\cour.ttf
+16 Feb 2021 01:19:23,022 main - checkFontfile check C:\WINDOWS\FONTS\courbd.ttf
+16 Feb 2021 01:19:23,022 main - checkFontfile found C:\WINDOWS\FONTS\courbd.ttf
+16 Feb 2021 01:19:23,023 main - checkFontfile check C:\WINDOWS\FONTS\courbi.ttf
+16 Feb 2021 01:19:23,023 main - checkFontfile found C:\WINDOWS\FONTS\courbi.ttf
+16 Feb 2021 01:19:23,023 main - checkFontfile check C:\WINDOWS\FONTS\coure.fon
+16 Feb 2021 01:19:23,024 main - checkFontfile check C:\WINDOWS\FONTS\couree.fon
+16 Feb 2021 01:19:23,024 main - checkFontfile check C:\WINDOWS\FONTS\coureg.fon
+16 Feb 2021 01:19:23,025 main - checkFontfile check C:\WINDOWS\FONTS\courer.fon
+16 Feb 2021 01:19:23,025 main - checkFontfile check C:\WINDOWS\FONTS\couret.fon
+16 Feb 2021 01:19:23,025 main - checkFontfile check C:\WINDOWS\FONTS\courf.fon
+16 Feb 2021 01:19:23,026 main - checkFontfile check C:\WINDOWS\FONTS\courfe.fon
+16 Feb 2021 01:19:23,026 main - checkFontfile check C:\WINDOWS\FONTS\courfg.fon
+16 Feb 2021 01:19:23,027 main - checkFontfile check C:\WINDOWS\FONTS\courfr.fon
+16 Feb 2021 01:19:23,027 main - checkFontfile check C:\WINDOWS\FONTS\courft.fon
+16 Feb 2021 01:19:23,027 main - checkFontfile check C:\WINDOWS\FONTS\couri.ttf
+16 Feb 2021 01:19:23,028 main - checkFontfile found C:\WINDOWS\FONTS\couri.ttf
+16 Feb 2021 01:19:23,028 main - checkFontfile check C:\WINDOWS\FONTS\CURLZ___.TTF
+16 Feb 2021 01:19:23,028 main - checkFontfile found C:\WINDOWS\FONTS\CURLZ___.TTF
+16 Feb 2021 01:19:23,029 main - checkFontfile check C:\WINDOWS\FONTS\cvgafix.fon
+16 Feb 2021 01:19:23,029 main - checkFontfile check C:\WINDOWS\FONTS\cvgasys.fon
+16 Feb 2021 01:19:23,032 main - checkFontfile check C:\WINDOWS\FONTS\desktop.ini
+16 Feb 2021 01:19:23,033 main - checkFontfile check C:\WINDOWS\FONTS\dos737.fon
+16 Feb 2021 01:19:23,033 main - checkFontfile check C:\WINDOWS\FONTS\dos869.fon
+16 Feb 2021 01:19:23,034 main - checkFontfile check C:\WINDOWS\FONTS\dosapp.fon
+16 Feb 2021 01:19:23,034 main - checkFontfile check C:\WINDOWS\FONTS\ebrima.ttf
+16 Feb 2021 01:19:23,034 main - checkFontfile found C:\WINDOWS\FONTS\ebrima.ttf
+16 Feb 2021 01:19:23,035 main - checkFontfile check C:\WINDOWS\FONTS\ebrimabd.ttf
+16 Feb 2021 01:19:23,035 main - checkFontfile found C:\WINDOWS\FONTS\ebrimabd.ttf
+16 Feb 2021 01:19:23,036 main - checkFontfile check C:\WINDOWS\FONTS\ega40737.fon
+16 Feb 2021 01:19:23,038 main - checkFontfile check C:\WINDOWS\FONTS\ega40850.fon
+16 Feb 2021 01:19:23,040 main - checkFontfile check C:\WINDOWS\FONTS\ega40852.fon
+16 Feb 2021 01:19:23,040 main - checkFontfile check C:\WINDOWS\FONTS\ega40857.fon
+16 Feb 2021 01:19:23,041 main - checkFontfile check C:\WINDOWS\FONTS\ega40866.fon
+16 Feb 2021 01:19:23,041 main - checkFontfile check C:\WINDOWS\FONTS\ega40869.fon
+16 Feb 2021 01:19:23,041 main - checkFontfile check C:\WINDOWS\FONTS\ega40woa.fon
+16 Feb 2021 01:19:23,042 main - checkFontfile check C:\WINDOWS\FONTS\ega80737.fon
+16 Feb 2021 01:19:23,043 main - checkFontfile check C:\WINDOWS\FONTS\ega80850.fon
+16 Feb 2021 01:19:23,043 main - checkFontfile check C:\WINDOWS\FONTS\ega80852.fon
+16 Feb 2021 01:19:23,044 main - checkFontfile check C:\WINDOWS\FONTS\ega80857.fon
+16 Feb 2021 01:19:23,044 main - checkFontfile check C:\WINDOWS\FONTS\ega80866.fon
+16 Feb 2021 01:19:23,045 main - checkFontfile check C:\WINDOWS\FONTS\ega80869.fon
+16 Feb 2021 01:19:23,045 main - checkFontfile check C:\WINDOWS\FONTS\ega80woa.fon
+16 Feb 2021 01:19:23,045 main - checkFontfile check C:\WINDOWS\FONTS\ELEPHNT.TTF
+16 Feb 2021 01:19:23,046 main - checkFontfile found C:\WINDOWS\FONTS\ELEPHNT.TTF
+16 Feb 2021 01:19:23,046 main - checkFontfile check C:\WINDOWS\FONTS\ELEPHNTI.TTF
+16 Feb 2021 01:19:23,046 main - checkFontfile found C:\WINDOWS\FONTS\ELEPHNTI.TTF
+16 Feb 2021 01:19:23,046 main - checkFontfile check C:\WINDOWS\FONTS\ENGR.TTF
+16 Feb 2021 01:19:23,047 main - checkFontfile found C:\WINDOWS\FONTS\ENGR.TTF
+16 Feb 2021 01:19:23,047 main - checkFontfile check C:\WINDOWS\FONTS\ERASBD.TTF
+16 Feb 2021 01:19:23,047 main - checkFontfile found C:\WINDOWS\FONTS\ERASBD.TTF
+16 Feb 2021 01:19:23,047 main - checkFontfile check C:\WINDOWS\FONTS\ERASDEMI.TTF
+16 Feb 2021 01:19:23,047 main - checkFontfile found C:\WINDOWS\FONTS\ERASDEMI.TTF
+16 Feb 2021 01:19:23,048 main - checkFontfile check C:\WINDOWS\FONTS\ERASLGHT.TTF
+16 Feb 2021 01:19:23,048 main - checkFontfile found C:\WINDOWS\FONTS\ERASLGHT.TTF
+16 Feb 2021 01:19:23,048 main - checkFontfile check C:\WINDOWS\FONTS\ERASMD.TTF
+16 Feb 2021 01:19:23,048 main - checkFontfile found C:\WINDOWS\FONTS\ERASMD.TTF
+16 Feb 2021 01:19:23,049 main - checkFontfile check C:\WINDOWS\FONTS\FELIXTI.TTF
+16 Feb 2021 01:19:23,049 main - checkFontfile found C:\WINDOWS\FONTS\FELIXTI.TTF
+16 Feb 2021 01:19:23,049 main - checkFontfile check C:\WINDOWS\FONTS\fms_metadata.xml
+16 Feb 2021 01:19:23,050 main - checkFontfile check C:\WINDOWS\FONTS\FORTE.TTF
+16 Feb 2021 01:19:23,050 main - checkFontfile found C:\WINDOWS\FONTS\FORTE.TTF
+16 Feb 2021 01:19:23,050 main - checkFontfile check C:\WINDOWS\FONTS\FRABK.TTF
+16 Feb 2021 01:19:23,050 main - checkFontfile found C:\WINDOWS\FONTS\FRABK.TTF
+16 Feb 2021 01:19:23,050 main - checkFontfile check C:\WINDOWS\FONTS\FRABKIT.TTF
+16 Feb 2021 01:19:23,050 main - checkFontfile found C:\WINDOWS\FONTS\FRABKIT.TTF
+16 Feb 2021 01:19:23,051 main - checkFontfile check C:\WINDOWS\FONTS\FRADM.TTF
+16 Feb 2021 01:19:23,051 main - checkFontfile found C:\WINDOWS\FONTS\FRADM.TTF
+16 Feb 2021 01:19:23,051 main - checkFontfile check C:\WINDOWS\FONTS\FRADMCN.TTF
+16 Feb 2021 01:19:23,051 main - checkFontfile found C:\WINDOWS\FONTS\FRADMCN.TTF
+16 Feb 2021 01:19:23,052 main - checkFontfile check C:\WINDOWS\FONTS\FRADMIT.TTF
+16 Feb 2021 01:19:23,052 main - checkFontfile found C:\WINDOWS\FONTS\FRADMIT.TTF
+16 Feb 2021 01:19:23,053 main - checkFontfile check C:\WINDOWS\FONTS\FRAHV.TTF
+16 Feb 2021 01:19:23,053 main - checkFontfile found C:\WINDOWS\FONTS\FRAHV.TTF
+16 Feb 2021 01:19:23,054 main - checkFontfile check C:\WINDOWS\FONTS\FRAHVIT.TTF
+16 Feb 2021 01:19:23,054 main - checkFontfile found C:\WINDOWS\FONTS\FRAHVIT.TTF
+16 Feb 2021 01:19:23,055 main - checkFontfile check C:\WINDOWS\FONTS\framd.ttf
+16 Feb 2021 01:19:23,055 main - checkFontfile found C:\WINDOWS\FONTS\framd.ttf
+16 Feb 2021 01:19:23,055 main - checkFontfile check C:\WINDOWS\FONTS\FRAMDCN.TTF
+16 Feb 2021 01:19:23,055 main - checkFontfile found C:\WINDOWS\FONTS\FRAMDCN.TTF
+16 Feb 2021 01:19:23,056 main - checkFontfile check C:\WINDOWS\FONTS\framdit.ttf
+16 Feb 2021 01:19:23,056 main - checkFontfile found C:\WINDOWS\FONTS\framdit.ttf
+16 Feb 2021 01:19:23,056 main - checkFontfile check C:\WINDOWS\FONTS\FREESCPT.TTF
+16 Feb 2021 01:19:23,056 main - checkFontfile found C:\WINDOWS\FONTS\FREESCPT.TTF
+16 Feb 2021 01:19:23,057 main - checkFontfile check C:\WINDOWS\FONTS\FRSCRIPT.TTF
+16 Feb 2021 01:19:23,057 main - checkFontfile found C:\WINDOWS\FONTS\FRSCRIPT.TTF
+16 Feb 2021 01:19:23,058 main - checkFontfile check C:\WINDOWS\FONTS\FTLTLT.TTF
+16 Feb 2021 01:19:23,058 main - checkFontfile found C:\WINDOWS\FONTS\FTLTLT.TTF
+16 Feb 2021 01:19:23,058 main - checkFontfile check C:\WINDOWS\FONTS\Gabriola.ttf
+16 Feb 2021 01:19:23,058 main - checkFontfile found C:\WINDOWS\FONTS\Gabriola.ttf
+16 Feb 2021 01:19:23,059 main - checkFontfile check C:\WINDOWS\FONTS\gadugi.ttf
+16 Feb 2021 01:19:23,059 main - checkFontfile found C:\WINDOWS\FONTS\gadugi.ttf
+16 Feb 2021 01:19:23,059 main - checkFontfile check C:\WINDOWS\FONTS\gadugib.ttf
+16 Feb 2021 01:19:23,060 main - checkFontfile found C:\WINDOWS\FONTS\gadugib.ttf
+16 Feb 2021 01:19:23,060 main - checkFontfile check C:\WINDOWS\FONTS\GARA.TTF
+16 Feb 2021 01:19:23,060 main - checkFontfile found C:\WINDOWS\FONTS\GARA.TTF
+16 Feb 2021 01:19:23,061 main - checkFontfile check C:\WINDOWS\FONTS\GARABD.TTF
+16 Feb 2021 01:19:23,061 main - checkFontfile found C:\WINDOWS\FONTS\GARABD.TTF
+16 Feb 2021 01:19:23,061 main - checkFontfile check C:\WINDOWS\FONTS\GARAIT.TTF
+16 Feb 2021 01:19:23,061 main - checkFontfile found C:\WINDOWS\FONTS\GARAIT.TTF
+16 Feb 2021 01:19:23,062 main - checkFontfile check C:\WINDOWS\FONTS\georgia.ttf
+16 Feb 2021 01:19:23,062 main - checkFontfile found C:\WINDOWS\FONTS\georgia.ttf
+16 Feb 2021 01:19:23,062 main - checkFontfile check C:\WINDOWS\FONTS\georgiab.ttf
+16 Feb 2021 01:19:23,062 main - checkFontfile found C:\WINDOWS\FONTS\georgiab.ttf
+16 Feb 2021 01:19:23,063 main - checkFontfile check C:\WINDOWS\FONTS\georgiai.ttf
+16 Feb 2021 01:19:23,063 main - checkFontfile found C:\WINDOWS\FONTS\georgiai.ttf
+16 Feb 2021 01:19:23,063 main - checkFontfile check C:\WINDOWS\FONTS\georgiaz.ttf
+16 Feb 2021 01:19:23,063 main - checkFontfile found C:\WINDOWS\FONTS\georgiaz.ttf
+16 Feb 2021 01:19:23,064 main - checkFontfile check C:\WINDOWS\FONTS\GIGI.TTF
+16 Feb 2021 01:19:23,064 main - checkFontfile found C:\WINDOWS\FONTS\GIGI.TTF
+16 Feb 2021 01:19:23,064 main - checkFontfile check C:\WINDOWS\FONTS\GILBI___.TTF
+16 Feb 2021 01:19:23,064 main - checkFontfile found C:\WINDOWS\FONTS\GILBI___.TTF
+16 Feb 2021 01:19:23,064 main - checkFontfile check C:\WINDOWS\FONTS\GILB____.TTF
+16 Feb 2021 01:19:23,065 main - checkFontfile found C:\WINDOWS\FONTS\GILB____.TTF
+16 Feb 2021 01:19:23,065 main - checkFontfile check C:\WINDOWS\FONTS\GILC____.TTF
+16 Feb 2021 01:19:23,065 main - checkFontfile found C:\WINDOWS\FONTS\GILC____.TTF
+16 Feb 2021 01:19:23,066 main - checkFontfile check C:\WINDOWS\FONTS\GILI____.TTF
+16 Feb 2021 01:19:23,066 main - checkFontfile found C:\WINDOWS\FONTS\GILI____.TTF
+16 Feb 2021 01:19:23,066 main - checkFontfile check C:\WINDOWS\FONTS\GILLUBCD.TTF
+16 Feb 2021 01:19:23,066 main - checkFontfile found C:\WINDOWS\FONTS\GILLUBCD.TTF
+16 Feb 2021 01:19:23,067 main - checkFontfile check C:\WINDOWS\FONTS\GILSANUB.TTF
+16 Feb 2021 01:19:23,067 main - checkFontfile found C:\WINDOWS\FONTS\GILSANUB.TTF
+16 Feb 2021 01:19:23,067 main - checkFontfile check C:\WINDOWS\FONTS\GIL_____.TTF
+16 Feb 2021 01:19:23,067 main - checkFontfile found C:\WINDOWS\FONTS\GIL_____.TTF
+16 Feb 2021 01:19:23,068 main - checkFontfile check C:\WINDOWS\FONTS\GLECB.TTF
+16 Feb 2021 01:19:23,068 main - checkFontfile found C:\WINDOWS\FONTS\GLECB.TTF
+16 Feb 2021 01:19:23,069 main - checkFontfile check C:\WINDOWS\FONTS\GlobalMonospace.CompositeFont
+16 Feb 2021 01:19:23,070 main - checkFontfile check C:\WINDOWS\FONTS\GlobalSansSerif.CompositeFont
+16 Feb 2021 01:19:23,071 main - checkFontfile check C:\WINDOWS\FONTS\GlobalSerif.CompositeFont
+16 Feb 2021 01:19:23,072 main - checkFontfile check C:\WINDOWS\FONTS\GlobalUserInterface.CompositeFont
+16 Feb 2021 01:19:23,072 main - checkFontfile check C:\WINDOWS\FONTS\GLSNECB.TTF
+16 Feb 2021 01:19:23,072 main - checkFontfile found C:\WINDOWS\FONTS\GLSNECB.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile check C:\WINDOWS\FONTS\GOTHIC.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile found C:\WINDOWS\FONTS\GOTHIC.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile check C:\WINDOWS\FONTS\GOTHICB.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile found C:\WINDOWS\FONTS\GOTHICB.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile check C:\WINDOWS\FONTS\GOTHICBI.TTF
+16 Feb 2021 01:19:23,073 main - checkFontfile found C:\WINDOWS\FONTS\GOTHICBI.TTF
+16 Feb 2021 01:19:23,074 main - checkFontfile check C:\WINDOWS\FONTS\GOTHICI.TTF
+16 Feb 2021 01:19:23,074 main - checkFontfile found C:\WINDOWS\FONTS\GOTHICI.TTF
+16 Feb 2021 01:19:23,074 main - checkFontfile check C:\WINDOWS\FONTS\GOUDOS.TTF
+16 Feb 2021 01:19:23,074 main - checkFontfile found C:\WINDOWS\FONTS\GOUDOS.TTF
+16 Feb 2021 01:19:23,075 main - checkFontfile check C:\WINDOWS\FONTS\GOUDOSB.TTF
+16 Feb 2021 01:19:23,075 main - checkFontfile found C:\WINDOWS\FONTS\GOUDOSB.TTF
+16 Feb 2021 01:19:23,075 main - checkFontfile check C:\WINDOWS\FONTS\GOUDOSI.TTF
+16 Feb 2021 01:19:23,075 main - checkFontfile found C:\WINDOWS\FONTS\GOUDOSI.TTF
+16 Feb 2021 01:19:23,076 main - checkFontfile check C:\WINDOWS\FONTS\GOUDYSTO.TTF
+16 Feb 2021 01:19:23,076 main - checkFontfile found C:\WINDOWS\FONTS\GOUDYSTO.TTF
+16 Feb 2021 01:19:23,076 main - checkFontfile check C:\WINDOWS\FONTS\h8514fix.fon
+16 Feb 2021 01:19:23,077 main - checkFontfile check C:\WINDOWS\FONTS\h8514oem.fon
+16 Feb 2021 01:19:23,077 main - checkFontfile check C:\WINDOWS\FONTS\h8514sys.fon
+16 Feb 2021 01:19:23,078 main - checkFontfile check C:\WINDOWS\FONTS\HARLOWSI.TTF
+16 Feb 2021 01:19:23,078 main - checkFontfile found C:\WINDOWS\FONTS\HARLOWSI.TTF
+16 Feb 2021 01:19:23,078 main - checkFontfile check C:\WINDOWS\FONTS\HARNGTON.TTF
+16 Feb 2021 01:19:23,078 main - checkFontfile found C:\WINDOWS\FONTS\HARNGTON.TTF
+16 Feb 2021 01:19:23,079 main - checkFontfile check C:\WINDOWS\FONTS\HATTEN.TTF
+16 Feb 2021 01:19:23,079 main - checkFontfile found C:\WINDOWS\FONTS\HATTEN.TTF
+16 Feb 2021 01:19:23,080 main - checkFontfile check C:\WINDOWS\FONTS\himalaya.ttf
+16 Feb 2021 01:19:23,080 main - checkFontfile found C:\WINDOWS\FONTS\himalaya.ttf
+16 Feb 2021 01:19:23,080 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified.ttf
+16 Feb 2021 01:19:23,080 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified.ttf
+16 Feb 2021 01:19:23,081 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified_BdIt.ttf
+16 Feb 2021 01:19:23,081 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified_BdIt.ttf
+16 Feb 2021 01:19:23,081 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified_It.ttf
+16 Feb 2021 01:19:23,082 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified_It.ttf
+16 Feb 2021 01:19:23,082 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified_Lt.ttf
+16 Feb 2021 01:19:23,082 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified_Lt.ttf
+16 Feb 2021 01:19:23,083 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified_LtIt.ttf
+16 Feb 2021 01:19:23,083 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified_LtIt.ttf
+16 Feb 2021 01:19:23,083 main - checkFontfile check C:\WINDOWS\FONTS\HPSimplified_Rg.ttf
+16 Feb 2021 01:19:23,083 main - checkFontfile found C:\WINDOWS\FONTS\HPSimplified_Rg.ttf
+16 Feb 2021 01:19:23,084 main - checkFontfile check C:\WINDOWS\FONTS\HTOWERT.TTF
+16 Feb 2021 01:19:23,084 main - checkFontfile found C:\WINDOWS\FONTS\HTOWERT.TTF
+16 Feb 2021 01:19:23,084 main - checkFontfile check C:\WINDOWS\FONTS\HTOWERTI.TTF
+16 Feb 2021 01:19:23,085 main - checkFontfile found C:\WINDOWS\FONTS\HTOWERTI.TTF
+16 Feb 2021 01:19:23,085 main - checkFontfile check C:\WINDOWS\FONTS\hvgafix.fon
+16 Feb 2021 01:19:23,087 main - checkFontfile check C:\WINDOWS\FONTS\hvgasys.fon
+16 Feb 2021 01:19:23,087 main - checkFontfile check C:\WINDOWS\FONTS\impact.ttf
+16 Feb 2021 01:19:23,088 main - checkFontfile found C:\WINDOWS\FONTS\impact.ttf
+16 Feb 2021 01:19:23,089 main - checkFontfile check C:\WINDOWS\FONTS\IMPRISHA.TTF
+16 Feb 2021 01:19:23,089 main - checkFontfile found C:\WINDOWS\FONTS\IMPRISHA.TTF
+16 Feb 2021 01:19:23,089 main - checkFontfile check C:\WINDOWS\FONTS\INFROMAN.TTF
+16 Feb 2021 01:19:23,089 main - checkFontfile found C:\WINDOWS\FONTS\INFROMAN.TTF
+16 Feb 2021 01:19:23,090 main - checkFontfile check C:\WINDOWS\FONTS\ITCBLKAD.TTF
+16 Feb 2021 01:19:23,090 main - checkFontfile found C:\WINDOWS\FONTS\ITCBLKAD.TTF
+16 Feb 2021 01:19:23,090 main - checkFontfile check C:\WINDOWS\FONTS\ITCEDSCR.TTF
+16 Feb 2021 01:19:23,090 main - checkFontfile found C:\WINDOWS\FONTS\ITCEDSCR.TTF
+16 Feb 2021 01:19:23,091 main - checkFontfile check C:\WINDOWS\FONTS\ITCKRIST.TTF
+16 Feb 2021 01:19:23,091 main - checkFontfile found C:\WINDOWS\FONTS\ITCKRIST.TTF
+16 Feb 2021 01:19:23,092 main - checkFontfile check C:\WINDOWS\FONTS\j8514fix.fon
+16 Feb 2021 01:19:23,092 main - checkFontfile check C:\WINDOWS\FONTS\j8514oem.fon
+16 Feb 2021 01:19:23,092 main - checkFontfile check C:\WINDOWS\FONTS\j8514sys.fon
+16 Feb 2021 01:19:23,093 main - checkFontfile check C:\WINDOWS\FONTS\javatext.ttf
+16 Feb 2021 01:19:23,093 main - checkFontfile found C:\WINDOWS\FONTS\javatext.ttf
+16 Feb 2021 01:19:23,093 main - checkFontfile check C:\WINDOWS\FONTS\JOKERMAN.TTF
+16 Feb 2021 01:19:23,093 main - checkFontfile found C:\WINDOWS\FONTS\JOKERMAN.TTF
+16 Feb 2021 01:19:23,094 main - checkFontfile check C:\WINDOWS\FONTS\jsmalle.fon
+16 Feb 2021 01:19:23,094 main - checkFontfile check C:\WINDOWS\FONTS\jsmallf.fon
+16 Feb 2021 01:19:23,095 main - checkFontfile check C:\WINDOWS\FONTS\JUICE___.TTF
+16 Feb 2021 01:19:23,095 main - checkFontfile found C:\WINDOWS\FONTS\JUICE___.TTF
+16 Feb 2021 01:19:23,095 main - checkFontfile check C:\WINDOWS\FONTS\jvgafix.fon
+16 Feb 2021 01:19:23,096 main - checkFontfile check C:\WINDOWS\FONTS\jvgasys.fon
+16 Feb 2021 01:19:23,096 main - checkFontfile check C:\WINDOWS\FONTS\KUNSTLER.TTF
+16 Feb 2021 01:19:23,096 main - checkFontfile found C:\WINDOWS\FONTS\KUNSTLER.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile check C:\WINDOWS\FONTS\LATINWD.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile found C:\WINDOWS\FONTS\LATINWD.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile check C:\WINDOWS\FONTS\LBRITE.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile found C:\WINDOWS\FONTS\LBRITE.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile check C:\WINDOWS\FONTS\LBRITED.TTF
+16 Feb 2021 01:19:23,097 main - checkFontfile found C:\WINDOWS\FONTS\LBRITED.TTF
+16 Feb 2021 01:19:23,098 main - checkFontfile check C:\WINDOWS\FONTS\LBRITEDI.TTF
+16 Feb 2021 01:19:23,098 main - checkFontfile found C:\WINDOWS\FONTS\LBRITEDI.TTF
+16 Feb 2021 01:19:23,098 main - checkFontfile check C:\WINDOWS\FONTS\LBRITEI.TTF
+16 Feb 2021 01:19:23,098 main - checkFontfile found C:\WINDOWS\FONTS\LBRITEI.TTF
+16 Feb 2021 01:19:23,099 main - checkFontfile check C:\WINDOWS\FONTS\LCALLIG.TTF
+16 Feb 2021 01:19:23,099 main - checkFontfile found C:\WINDOWS\FONTS\LCALLIG.TTF
+16 Feb 2021 01:19:23,099 main - checkFontfile check C:\WINDOWS\FONTS\LeelaUIb.ttf
+16 Feb 2021 01:19:23,099 main - checkFontfile found C:\WINDOWS\FONTS\LeelaUIb.ttf
+16 Feb 2021 01:19:23,100 main - checkFontfile check C:\WINDOWS\FONTS\LEELAWAD.TTF
+16 Feb 2021 01:19:23,100 main - checkFontfile found C:\WINDOWS\FONTS\LEELAWAD.TTF
+16 Feb 2021 01:19:23,100 main - checkFontfile check C:\WINDOWS\FONTS\LEELAWDB.TTF
+16 Feb 2021 01:19:23,100 main - checkFontfile found C:\WINDOWS\FONTS\LEELAWDB.TTF
+16 Feb 2021 01:19:23,101 main - checkFontfile check C:\WINDOWS\FONTS\LeelawUI.ttf
+16 Feb 2021 01:19:23,101 main - checkFontfile found C:\WINDOWS\FONTS\LeelawUI.ttf
+16 Feb 2021 01:19:23,102 main - checkFontfile check C:\WINDOWS\FONTS\LeelUIsl.ttf
+16 Feb 2021 01:19:23,102 main - checkFontfile found C:\WINDOWS\FONTS\LeelUIsl.ttf
+16 Feb 2021 01:19:23,102 main - checkFontfile check C:\WINDOWS\FONTS\LFAX.TTF
+16 Feb 2021 01:19:23,103 main - checkFontfile found C:\WINDOWS\FONTS\LFAX.TTF
+16 Feb 2021 01:19:23,104 main - checkFontfile check C:\WINDOWS\FONTS\LFAXD.TTF
+16 Feb 2021 01:19:23,104 main - checkFontfile found C:\WINDOWS\FONTS\LFAXD.TTF
+16 Feb 2021 01:19:23,105 main - checkFontfile check C:\WINDOWS\FONTS\LFAXDI.TTF
+16 Feb 2021 01:19:23,106 main - checkFontfile found C:\WINDOWS\FONTS\LFAXDI.TTF
+16 Feb 2021 01:19:23,106 main - checkFontfile check C:\WINDOWS\FONTS\LFAXI.TTF
+16 Feb 2021 01:19:23,106 main - checkFontfile found C:\WINDOWS\FONTS\LFAXI.TTF
+16 Feb 2021 01:19:23,106 main - checkFontfile check C:\WINDOWS\FONTS\LHANDW.TTF
+16 Feb 2021 01:19:23,106 main - checkFontfile found C:\WINDOWS\FONTS\LHANDW.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile check C:\WINDOWS\FONTS\LSANS.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile found C:\WINDOWS\FONTS\LSANS.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile check C:\WINDOWS\FONTS\LSANSD.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile found C:\WINDOWS\FONTS\LSANSD.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile check C:\WINDOWS\FONTS\LSANSDI.TTF
+16 Feb 2021 01:19:23,107 main - checkFontfile found C:\WINDOWS\FONTS\LSANSDI.TTF
+16 Feb 2021 01:19:23,108 main - checkFontfile check C:\WINDOWS\FONTS\LSANSI.TTF
+16 Feb 2021 01:19:23,108 main - checkFontfile found C:\WINDOWS\FONTS\LSANSI.TTF
+16 Feb 2021 01:19:23,108 main - checkFontfile check C:\WINDOWS\FONTS\LTYPE.TTF
+16 Feb 2021 01:19:23,109 main - checkFontfile found C:\WINDOWS\FONTS\LTYPE.TTF
+16 Feb 2021 01:19:23,109 main - checkFontfile check C:\WINDOWS\FONTS\LTYPEB.TTF
+16 Feb 2021 01:19:23,109 main - checkFontfile found C:\WINDOWS\FONTS\LTYPEB.TTF
+16 Feb 2021 01:19:23,110 main - checkFontfile check C:\WINDOWS\FONTS\LTYPEBO.TTF
+16 Feb 2021 01:19:23,110 main - checkFontfile found C:\WINDOWS\FONTS\LTYPEBO.TTF
+16 Feb 2021 01:19:23,110 main - checkFontfile check C:\WINDOWS\FONTS\LTYPEO.TTF
+16 Feb 2021 01:19:23,111 main - checkFontfile found C:\WINDOWS\FONTS\LTYPEO.TTF
+16 Feb 2021 01:19:23,111 main - checkFontfile check C:\WINDOWS\FONTS\lucon.ttf
+16 Feb 2021 01:19:23,111 main - checkFontfile found C:\WINDOWS\FONTS\lucon.ttf
+16 Feb 2021 01:19:23,111 main - checkFontfile check C:\WINDOWS\FONTS\l_10646.ttf
+16 Feb 2021 01:19:23,112 main - checkFontfile found C:\WINDOWS\FONTS\l_10646.ttf
+16 Feb 2021 01:19:23,112 main - checkFontfile check C:\WINDOWS\FONTS\MAGNETOB.TTF
+16 Feb 2021 01:19:23,112 main - checkFontfile found C:\WINDOWS\FONTS\MAGNETOB.TTF
+16 Feb 2021 01:19:23,113 main - checkFontfile check C:\WINDOWS\FONTS\MAIAN.TTF
+16 Feb 2021 01:19:23,113 main - checkFontfile found C:\WINDOWS\FONTS\MAIAN.TTF
+16 Feb 2021 01:19:23,113 main - checkFontfile check C:\WINDOWS\FONTS\malgun.ttf
+16 Feb 2021 01:19:23,113 main - checkFontfile found C:\WINDOWS\FONTS\malgun.ttf
+16 Feb 2021 01:19:23,114 main - checkFontfile check C:\WINDOWS\FONTS\malgunbd.ttf
+16 Feb 2021 01:19:23,114 main - checkFontfile found C:\WINDOWS\FONTS\malgunbd.ttf
+16 Feb 2021 01:19:23,114 main - checkFontfile check C:\WINDOWS\FONTS\malgunsl.ttf
+16 Feb 2021 01:19:23,114 main - checkFontfile found C:\WINDOWS\FONTS\malgunsl.ttf
+16 Feb 2021 01:19:23,115 main - checkFontfile check C:\WINDOWS\FONTS\marlett.ttf
+16 Feb 2021 01:19:23,115 main - checkFontfile found C:\WINDOWS\FONTS\marlett.ttf
+16 Feb 2021 01:19:23,115 main - checkFontfile check C:\WINDOWS\FONTS\MATURASC.TTF
+16 Feb 2021 01:19:23,116 main - checkFontfile found C:\WINDOWS\FONTS\MATURASC.TTF
+16 Feb 2021 01:19:23,116 main - checkFontfile check C:\WINDOWS\FONTS\micross.ttf
+16 Feb 2021 01:19:23,116 main - checkFontfile found C:\WINDOWS\FONTS\micross.ttf
+16 Feb 2021 01:19:23,116 main - checkFontfile check C:\WINDOWS\FONTS\mingliub.ttc
+16 Feb 2021 01:19:23,117 main - checkFontfile found C:\WINDOWS\FONTS\mingliub.ttc
+16 Feb 2021 01:19:23,117 main - checkFontfile check C:\WINDOWS\FONTS\MISTRAL.TTF
+16 Feb 2021 01:19:23,117 main - checkFontfile found C:\WINDOWS\FONTS\MISTRAL.TTF
+16 Feb 2021 01:19:23,118 main - checkFontfile check C:\WINDOWS\FONTS\mmrtext.ttf
+16 Feb 2021 01:19:23,118 main - checkFontfile found C:\WINDOWS\FONTS\mmrtext.ttf
+16 Feb 2021 01:19:23,118 main - checkFontfile check C:\WINDOWS\FONTS\mmrtextb.ttf
+16 Feb 2021 01:19:23,118 main - checkFontfile found C:\WINDOWS\FONTS\mmrtextb.ttf
+16 Feb 2021 01:19:23,119 main - checkFontfile check C:\WINDOWS\FONTS\MOD20.TTF
+16 Feb 2021 01:19:23,119 main - checkFontfile found C:\WINDOWS\FONTS\MOD20.TTF
+16 Feb 2021 01:19:23,120 main - checkFontfile check C:\WINDOWS\FONTS\modern.fon
+16 Feb 2021 01:19:23,121 main - checkFontfile check C:\WINDOWS\FONTS\monbaiti.ttf
+16 Feb 2021 01:19:23,121 main - checkFontfile found C:\WINDOWS\FONTS\monbaiti.ttf
+16 Feb 2021 01:19:23,121 main - checkFontfile check C:\WINDOWS\FONTS\msgothic.ttc
+16 Feb 2021 01:19:23,122 main - checkFontfile found C:\WINDOWS\FONTS\msgothic.ttc
+16 Feb 2021 01:19:23,122 main - checkFontfile check C:\WINDOWS\FONTS\msjh.ttc
+16 Feb 2021 01:19:23,122 main - checkFontfile found C:\WINDOWS\FONTS\msjh.ttc
+16 Feb 2021 01:19:23,123 main - checkFontfile check C:\WINDOWS\FONTS\msjhbd.ttc
+16 Feb 2021 01:19:23,123 main - checkFontfile found C:\WINDOWS\FONTS\msjhbd.ttc
+16 Feb 2021 01:19:23,123 main - checkFontfile check C:\WINDOWS\FONTS\msjhl.ttc
+16 Feb 2021 01:19:23,124 main - checkFontfile found C:\WINDOWS\FONTS\msjhl.ttc
+16 Feb 2021 01:19:23,124 main - checkFontfile check C:\WINDOWS\FONTS\MSUIGHUB.TTF
+16 Feb 2021 01:19:23,124 main - checkFontfile found C:\WINDOWS\FONTS\MSUIGHUB.TTF
+16 Feb 2021 01:19:23,124 main - checkFontfile check C:\WINDOWS\FONTS\MSUIGHUR.TTF
+16 Feb 2021 01:19:23,125 main - checkFontfile found C:\WINDOWS\FONTS\MSUIGHUR.TTF
+16 Feb 2021 01:19:23,125 main - checkFontfile check C:\WINDOWS\FONTS\msyh.ttc
+16 Feb 2021 01:19:23,125 main - checkFontfile found C:\WINDOWS\FONTS\msyh.ttc
+16 Feb 2021 01:19:23,126 main - checkFontfile check C:\WINDOWS\FONTS\msyhbd.ttc
+16 Feb 2021 01:19:23,126 main - checkFontfile found C:\WINDOWS\FONTS\msyhbd.ttc
+16 Feb 2021 01:19:23,126 main - checkFontfile check C:\WINDOWS\FONTS\msyhl.ttc
+16 Feb 2021 01:19:23,126 main - checkFontfile found C:\WINDOWS\FONTS\msyhl.ttc
+16 Feb 2021 01:19:23,127 main - checkFontfile check C:\WINDOWS\FONTS\msyi.ttf
+16 Feb 2021 01:19:23,127 main - checkFontfile found C:\WINDOWS\FONTS\msyi.ttf
+16 Feb 2021 01:19:23,127 main - checkFontfile check C:\WINDOWS\FONTS\MTCORSVA.TTF
+16 Feb 2021 01:19:23,127 main - checkFontfile found C:\WINDOWS\FONTS\MTCORSVA.TTF
+16 Feb 2021 01:19:23,127 main - checkFontfile check C:\WINDOWS\FONTS\MTEXTRA.TTF
+16 Feb 2021 01:19:23,127 main - checkFontfile found C:\WINDOWS\FONTS\MTEXTRA.TTF
+16 Feb 2021 01:19:23,128 main - checkFontfile check C:\WINDOWS\FONTS\mvboli.ttf
+16 Feb 2021 01:19:23,128 main - checkFontfile found C:\WINDOWS\FONTS\mvboli.ttf
+16 Feb 2021 01:19:23,128 main - checkFontfile check C:\WINDOWS\FONTS\NIAGENG.TTF
+16 Feb 2021 01:19:23,129 main - checkFontfile found C:\WINDOWS\FONTS\NIAGENG.TTF
+16 Feb 2021 01:19:23,129 main - checkFontfile check C:\WINDOWS\FONTS\NIAGSOL.TTF
+16 Feb 2021 01:19:23,129 main - checkFontfile found C:\WINDOWS\FONTS\NIAGSOL.TTF
+16 Feb 2021 01:19:23,130 main - checkFontfile check C:\WINDOWS\FONTS\Nirmala.ttf
+16 Feb 2021 01:19:23,130 main - checkFontfile found C:\WINDOWS\FONTS\Nirmala.ttf
+16 Feb 2021 01:19:23,130 main - checkFontfile check C:\WINDOWS\FONTS\NirmalaB.ttf
+16 Feb 2021 01:19:23,131 main - checkFontfile found C:\WINDOWS\FONTS\NirmalaB.ttf
+16 Feb 2021 01:19:23,131 main - checkFontfile check C:\WINDOWS\FONTS\NirmalaS.ttf
+16 Feb 2021 01:19:23,131 main - checkFontfile found C:\WINDOWS\FONTS\NirmalaS.ttf
+16 Feb 2021 01:19:23,132 main - checkFontfile check C:\WINDOWS\FONTS\ntailu.ttf
+16 Feb 2021 01:19:23,132 main - checkFontfile found C:\WINDOWS\FONTS\ntailu.ttf
+16 Feb 2021 01:19:23,133 main - checkFontfile check C:\WINDOWS\FONTS\ntailub.ttf
+16 Feb 2021 01:19:23,133 main - checkFontfile found C:\WINDOWS\FONTS\ntailub.ttf
+16 Feb 2021 01:19:23,133 main - checkFontfile check C:\WINDOWS\FONTS\OCRAEXT.TTF
+16 Feb 2021 01:19:23,133 main - checkFontfile found C:\WINDOWS\FONTS\OCRAEXT.TTF
+16 Feb 2021 01:19:23,134 main - checkFontfile check C:\WINDOWS\FONTS\OLDENGL.TTF
+16 Feb 2021 01:19:23,134 main - checkFontfile found C:\WINDOWS\FONTS\OLDENGL.TTF
+16 Feb 2021 01:19:23,135 main - checkFontfile check C:\WINDOWS\FONTS\ONYX.TTF
+16 Feb 2021 01:19:23,135 main - checkFontfile found C:\WINDOWS\FONTS\ONYX.TTF
+16 Feb 2021 01:19:23,135 main - checkFontfile check C:\WINDOWS\FONTS\OUTLOOK.TTF
+16 Feb 2021 01:19:23,135 main - checkFontfile found C:\WINDOWS\FONTS\OUTLOOK.TTF
+16 Feb 2021 01:19:23,136 main - checkFontfile check C:\WINDOWS\FONTS\pala.ttf
+16 Feb 2021 01:19:23,136 main - checkFontfile found C:\WINDOWS\FONTS\pala.ttf
+16 Feb 2021 01:19:23,137 main - checkFontfile check C:\WINDOWS\FONTS\palab.ttf
+16 Feb 2021 01:19:23,138 main - checkFontfile found C:\WINDOWS\FONTS\palab.ttf
+16 Feb 2021 01:19:23,138 main - checkFontfile check C:\WINDOWS\FONTS\palabi.ttf
+16 Feb 2021 01:19:23,138 main - checkFontfile found C:\WINDOWS\FONTS\palabi.ttf
+16 Feb 2021 01:19:23,139 main - checkFontfile check C:\WINDOWS\FONTS\palai.ttf
+16 Feb 2021 01:19:23,139 main - checkFontfile found C:\WINDOWS\FONTS\palai.ttf
+16 Feb 2021 01:19:23,139 main - checkFontfile check C:\WINDOWS\FONTS\PALSCRI.TTF
+16 Feb 2021 01:19:23,140 main - checkFontfile found C:\WINDOWS\FONTS\PALSCRI.TTF
+16 Feb 2021 01:19:23,140 main - checkFontfile check C:\WINDOWS\FONTS\PAPYRUS.TTF
+16 Feb 2021 01:19:23,140 main - checkFontfile found C:\WINDOWS\FONTS\PAPYRUS.TTF
+16 Feb 2021 01:19:23,141 main - checkFontfile check C:\WINDOWS\FONTS\PARCHM.TTF
+16 Feb 2021 01:19:23,141 main - checkFontfile found C:\WINDOWS\FONTS\PARCHM.TTF
+16 Feb 2021 01:19:23,142 main - checkFontfile check C:\WINDOWS\FONTS\PERBI___.TTF
+16 Feb 2021 01:19:23,142 main - checkFontfile found C:\WINDOWS\FONTS\PERBI___.TTF
+16 Feb 2021 01:19:23,143 main - checkFontfile check C:\WINDOWS\FONTS\PERB____.TTF
+16 Feb 2021 01:19:23,143 main - checkFontfile found C:\WINDOWS\FONTS\PERB____.TTF
+16 Feb 2021 01:19:23,143 main - checkFontfile check C:\WINDOWS\FONTS\PERI____.TTF
+16 Feb 2021 01:19:23,143 main - checkFontfile found C:\WINDOWS\FONTS\PERI____.TTF
+16 Feb 2021 01:19:23,144 main - checkFontfile check C:\WINDOWS\FONTS\PERTIBD.TTF
+16 Feb 2021 01:19:23,144 main - checkFontfile found C:\WINDOWS\FONTS\PERTIBD.TTF
+16 Feb 2021 01:19:23,144 main - checkFontfile check C:\WINDOWS\FONTS\PERTILI.TTF
+16 Feb 2021 01:19:23,145 main - checkFontfile found C:\WINDOWS\FONTS\PERTILI.TTF
+16 Feb 2021 01:19:23,145 main - checkFontfile check C:\WINDOWS\FONTS\PER_____.TTF
+16 Feb 2021 01:19:23,145 main - checkFontfile found C:\WINDOWS\FONTS\PER_____.TTF
+16 Feb 2021 01:19:23,146 main - checkFontfile check C:\WINDOWS\FONTS\phagspa.ttf
+16 Feb 2021 01:19:23,146 main - checkFontfile found C:\WINDOWS\FONTS\phagspa.ttf
+16 Feb 2021 01:19:23,146 main - checkFontfile check C:\WINDOWS\FONTS\phagspab.ttf
+16 Feb 2021 01:19:23,146 main - checkFontfile found C:\WINDOWS\FONTS\phagspab.ttf
+16 Feb 2021 01:19:23,147 main - checkFontfile check C:\WINDOWS\FONTS\PLAYBILL.TTF
+16 Feb 2021 01:19:23,147 main - checkFontfile found C:\WINDOWS\FONTS\PLAYBILL.TTF
+16 Feb 2021 01:19:23,147 main - checkFontfile check C:\WINDOWS\FONTS\POORICH.TTF
+16 Feb 2021 01:19:23,147 main - checkFontfile found C:\WINDOWS\FONTS\POORICH.TTF
+16 Feb 2021 01:19:23,148 main - checkFontfile check C:\WINDOWS\FONTS\PRISTINA.TTF
+16 Feb 2021 01:19:23,148 main - checkFontfile found C:\WINDOWS\FONTS\PRISTINA.TTF
+16 Feb 2021 01:19:23,148 main - checkFontfile check C:\WINDOWS\FONTS\RAGE.TTF
+16 Feb 2021 01:19:23,148 main - checkFontfile found C:\WINDOWS\FONTS\RAGE.TTF
+16 Feb 2021 01:19:23,149 main - checkFontfile check C:\WINDOWS\FONTS\RAVIE.TTF
+16 Feb 2021 01:19:23,149 main - checkFontfile found C:\WINDOWS\FONTS\RAVIE.TTF
+16 Feb 2021 01:19:23,149 main - checkFontfile check C:\WINDOWS\FONTS\REFSAN.TTF
+16 Feb 2021 01:19:23,150 main - checkFontfile found C:\WINDOWS\FONTS\REFSAN.TTF
+16 Feb 2021 01:19:23,150 main - checkFontfile check C:\WINDOWS\FONTS\REFSPCL.TTF
+16 Feb 2021 01:19:23,150 main - checkFontfile found C:\WINDOWS\FONTS\REFSPCL.TTF
+16 Feb 2021 01:19:23,151 main - checkFontfile check C:\WINDOWS\FONTS\ROCCB___.TTF
+16 Feb 2021 01:19:23,151 main - checkFontfile found C:\WINDOWS\FONTS\ROCCB___.TTF
+16 Feb 2021 01:19:23,151 main - checkFontfile check C:\WINDOWS\FONTS\ROCC____.TTF
+16 Feb 2021 01:19:23,151 main - checkFontfile found C:\WINDOWS\FONTS\ROCC____.TTF
+16 Feb 2021 01:19:23,152 main - checkFontfile check C:\WINDOWS\FONTS\ROCK.TTF
+16 Feb 2021 01:19:23,152 main - checkFontfile found C:\WINDOWS\FONTS\ROCK.TTF
+16 Feb 2021 01:19:23,153 main - checkFontfile check C:\WINDOWS\FONTS\ROCKB.TTF
+16 Feb 2021 01:19:23,153 main - checkFontfile found C:\WINDOWS\FONTS\ROCKB.TTF
+16 Feb 2021 01:19:23,153 main - checkFontfile check C:\WINDOWS\FONTS\ROCKBI.TTF
+16 Feb 2021 01:19:23,154 main - checkFontfile found C:\WINDOWS\FONTS\ROCKBI.TTF
+16 Feb 2021 01:19:23,155 main - checkFontfile check C:\WINDOWS\FONTS\ROCKEB.TTF
+16 Feb 2021 01:19:23,155 main - checkFontfile found C:\WINDOWS\FONTS\ROCKEB.TTF
+16 Feb 2021 01:19:23,156 main - checkFontfile check C:\WINDOWS\FONTS\ROCKI.TTF
+16 Feb 2021 01:19:23,156 main - checkFontfile found C:\WINDOWS\FONTS\ROCKI.TTF
+16 Feb 2021 01:19:23,157 main - checkFontfile check C:\WINDOWS\FONTS\roman.fon
+16 Feb 2021 01:19:23,157 main - checkFontfile check C:\WINDOWS\FONTS\s8514fix.fon
+16 Feb 2021 01:19:23,157 main - checkFontfile check C:\WINDOWS\FONTS\s8514oem.fon
+16 Feb 2021 01:19:23,158 main - checkFontfile check C:\WINDOWS\FONTS\s8514sys.fon
+16 Feb 2021 01:19:23,158 main - checkFontfile check C:\WINDOWS\FONTS\SCHLBKB.TTF
+16 Feb 2021 01:19:23,158 main - checkFontfile found C:\WINDOWS\FONTS\SCHLBKB.TTF
+16 Feb 2021 01:19:23,158 main - checkFontfile check C:\WINDOWS\FONTS\SCHLBKBI.TTF
+16 Feb 2021 01:19:23,158 main - checkFontfile found C:\WINDOWS\FONTS\SCHLBKBI.TTF
+16 Feb 2021 01:19:23,159 main - checkFontfile check C:\WINDOWS\FONTS\SCHLBKI.TTF
+16 Feb 2021 01:19:23,159 main - checkFontfile found C:\WINDOWS\FONTS\SCHLBKI.TTF
+16 Feb 2021 01:19:23,159 main - checkFontfile check C:\WINDOWS\FONTS\script.fon
+16 Feb 2021 01:19:23,160 main - checkFontfile check C:\WINDOWS\FONTS\SCRIPTBL.TTF
+16 Feb 2021 01:19:23,160 main - checkFontfile found C:\WINDOWS\FONTS\SCRIPTBL.TTF
+16 Feb 2021 01:19:23,160 main - checkFontfile check C:\WINDOWS\FONTS\segmdl2.ttf
+16 Feb 2021 01:19:23,160 main - checkFontfile found C:\WINDOWS\FONTS\segmdl2.ttf
+16 Feb 2021 01:19:23,161 main - checkFontfile check C:\WINDOWS\FONTS\segoepr.ttf
+16 Feb 2021 01:19:23,161 main - checkFontfile found C:\WINDOWS\FONTS\segoepr.ttf
+16 Feb 2021 01:19:23,161 main - checkFontfile check C:\WINDOWS\FONTS\segoeprb.ttf
+16 Feb 2021 01:19:23,161 main - checkFontfile found C:\WINDOWS\FONTS\segoeprb.ttf
+16 Feb 2021 01:19:23,162 main - checkFontfile check C:\WINDOWS\FONTS\segoesc.ttf
+16 Feb 2021 01:19:23,162 main - checkFontfile found C:\WINDOWS\FONTS\segoesc.ttf
+16 Feb 2021 01:19:23,162 main - checkFontfile check C:\WINDOWS\FONTS\segoescb.ttf
+16 Feb 2021 01:19:23,163 main - checkFontfile found C:\WINDOWS\FONTS\segoescb.ttf
+16 Feb 2021 01:19:23,163 main - checkFontfile check C:\WINDOWS\FONTS\segoeui.ttf
+16 Feb 2021 01:19:23,163 main - checkFontfile found C:\WINDOWS\FONTS\segoeui.ttf
+16 Feb 2021 01:19:23,164 main - checkFontfile check C:\WINDOWS\FONTS\segoeuib.ttf
+16 Feb 2021 01:19:23,164 main - checkFontfile found C:\WINDOWS\FONTS\segoeuib.ttf
+16 Feb 2021 01:19:23,164 main - checkFontfile check C:\WINDOWS\FONTS\segoeuii.ttf
+16 Feb 2021 01:19:23,164 main - checkFontfile found C:\WINDOWS\FONTS\segoeuii.ttf
+16 Feb 2021 01:19:23,165 main - checkFontfile check C:\WINDOWS\FONTS\segoeuil.ttf
+16 Feb 2021 01:19:23,165 main - checkFontfile found C:\WINDOWS\FONTS\segoeuil.ttf
+16 Feb 2021 01:19:23,165 main - checkFontfile check C:\WINDOWS\FONTS\segoeuisl.ttf
+16 Feb 2021 01:19:23,165 main - checkFontfile found C:\WINDOWS\FONTS\segoeuisl.ttf
+16 Feb 2021 01:19:23,166 main - checkFontfile check C:\WINDOWS\FONTS\segoeuiz.ttf
+16 Feb 2021 01:19:23,166 main - checkFontfile found C:\WINDOWS\FONTS\segoeuiz.ttf
+16 Feb 2021 01:19:23,166 main - checkFontfile check C:\WINDOWS\FONTS\seguibl.ttf
+16 Feb 2021 01:19:23,167 main - checkFontfile found C:\WINDOWS\FONTS\seguibl.ttf
+16 Feb 2021 01:19:23,167 main - checkFontfile check C:\WINDOWS\FONTS\seguibli.ttf
+16 Feb 2021 01:19:23,167 main - checkFontfile found C:\WINDOWS\FONTS\seguibli.ttf
+16 Feb 2021 01:19:23,167 main - checkFontfile check C:\WINDOWS\FONTS\seguiemj.ttf
+16 Feb 2021 01:19:23,168 main - checkFontfile found C:\WINDOWS\FONTS\seguiemj.ttf
+16 Feb 2021 01:19:23,168 main - checkFontfile check C:\WINDOWS\FONTS\seguihis.ttf
+16 Feb 2021 01:19:23,168 main - checkFontfile found C:\WINDOWS\FONTS\seguihis.ttf
+16 Feb 2021 01:19:23,169 main - checkFontfile check C:\WINDOWS\FONTS\seguili.ttf
+16 Feb 2021 01:19:23,169 main - checkFontfile found C:\WINDOWS\FONTS\seguili.ttf
+16 Feb 2021 01:19:23,170 main - checkFontfile check C:\WINDOWS\FONTS\seguisb.ttf
+16 Feb 2021 01:19:23,170 main - checkFontfile found C:\WINDOWS\FONTS\seguisb.ttf
+16 Feb 2021 01:19:23,171 main - checkFontfile check C:\WINDOWS\FONTS\seguisbi.ttf
+16 Feb 2021 01:19:23,171 main - checkFontfile found C:\WINDOWS\FONTS\seguisbi.ttf
+16 Feb 2021 01:19:23,172 main - checkFontfile check C:\WINDOWS\FONTS\seguisli.ttf
+16 Feb 2021 01:19:23,172 main - checkFontfile found C:\WINDOWS\FONTS\seguisli.ttf
+16 Feb 2021 01:19:23,172 main - checkFontfile check C:\WINDOWS\FONTS\seguisym.ttf
+16 Feb 2021 01:19:23,172 main - checkFontfile found C:\WINDOWS\FONTS\seguisym.ttf
+16 Feb 2021 01:19:23,173 main - checkFontfile check C:\WINDOWS\FONTS\sere1255.fon
+16 Feb 2021 01:19:23,174 main - checkFontfile check C:\WINDOWS\FONTS\sere1256.fon
+16 Feb 2021 01:19:23,174 main - checkFontfile check C:\WINDOWS\FONTS\sere1257.fon
+16 Feb 2021 01:19:23,174 main - checkFontfile check C:\WINDOWS\FONTS\serf1255.fon
+16 Feb 2021 01:19:23,175 main - checkFontfile check C:\WINDOWS\FONTS\serf1256.fon
+16 Feb 2021 01:19:23,175 main - checkFontfile check C:\WINDOWS\FONTS\serf1257.fon
+16 Feb 2021 01:19:23,176 main - checkFontfile check C:\WINDOWS\FONTS\serife.fon
+16 Feb 2021 01:19:23,176 main - checkFontfile check C:\WINDOWS\FONTS\serifee.fon
+16 Feb 2021 01:19:23,177 main - checkFontfile check C:\WINDOWS\FONTS\serifeg.fon
+16 Feb 2021 01:19:23,177 main - checkFontfile check C:\WINDOWS\FONTS\serifer.fon
+16 Feb 2021 01:19:23,177 main - checkFontfile check C:\WINDOWS\FONTS\serifet.fon
+16 Feb 2021 01:19:23,178 main - checkFontfile check C:\WINDOWS\FONTS\seriff.fon
+16 Feb 2021 01:19:23,178 main - checkFontfile check C:\WINDOWS\FONTS\seriffe.fon
+16 Feb 2021 01:19:23,179 main - checkFontfile check C:\WINDOWS\FONTS\seriffg.fon
+16 Feb 2021 01:19:23,179 main - checkFontfile check C:\WINDOWS\FONTS\seriffr.fon
+16 Feb 2021 01:19:23,179 main - checkFontfile check C:\WINDOWS\FONTS\serifft.fon
+16 Feb 2021 01:19:23,180 main - checkFontfile check C:\WINDOWS\FONTS\SHOWG.TTF
+16 Feb 2021 01:19:23,180 main - checkFontfile found C:\WINDOWS\FONTS\SHOWG.TTF
+16 Feb 2021 01:19:23,180 main - checkFontfile check C:\WINDOWS\FONTS\simsun.ttc
+16 Feb 2021 01:19:23,180 main - checkFontfile found C:\WINDOWS\FONTS\simsun.ttc
+16 Feb 2021 01:19:23,180 main - checkFontfile check C:\WINDOWS\FONTS\simsunb.ttf
+16 Feb 2021 01:19:23,181 main - checkFontfile found C:\WINDOWS\FONTS\simsunb.ttf
+16 Feb 2021 01:19:23,181 main - checkFontfile check C:\WINDOWS\FONTS\Sitka.ttc
+16 Feb 2021 01:19:23,181 main - checkFontfile found C:\WINDOWS\FONTS\Sitka.ttc
+16 Feb 2021 01:19:23,181 main - checkFontfile check C:\WINDOWS\FONTS\SitkaB.ttc
+16 Feb 2021 01:19:23,181 main - checkFontfile found C:\WINDOWS\FONTS\SitkaB.ttc
+16 Feb 2021 01:19:23,182 main - checkFontfile check C:\WINDOWS\FONTS\SitkaI.ttc
+16 Feb 2021 01:19:23,182 main - checkFontfile found C:\WINDOWS\FONTS\SitkaI.ttc
+16 Feb 2021 01:19:23,182 main - checkFontfile check C:\WINDOWS\FONTS\SitkaZ.ttc
+16 Feb 2021 01:19:23,182 main - checkFontfile found C:\WINDOWS\FONTS\SitkaZ.ttc
+16 Feb 2021 01:19:23,183 main - checkFontfile check C:\WINDOWS\FONTS\smae1255.fon
+16 Feb 2021 01:19:23,183 main - checkFontfile check C:\WINDOWS\FONTS\smae1256.fon
+16 Feb 2021 01:19:23,184 main - checkFontfile check C:\WINDOWS\FONTS\smae1257.fon
+16 Feb 2021 01:19:23,184 main - checkFontfile check C:\WINDOWS\FONTS\smaf1255.fon
+16 Feb 2021 01:19:23,185 main - checkFontfile check C:\WINDOWS\FONTS\smaf1256.fon
+16 Feb 2021 01:19:23,185 main - checkFontfile check C:\WINDOWS\FONTS\smaf1257.fon
+16 Feb 2021 01:19:23,185 main - checkFontfile check C:\WINDOWS\FONTS\smalle.fon
+16 Feb 2021 01:19:23,186 main - checkFontfile check C:\WINDOWS\FONTS\smallee.fon
+16 Feb 2021 01:19:23,187 main - checkFontfile check C:\WINDOWS\FONTS\smalleg.fon
+16 Feb 2021 01:19:23,188 main - checkFontfile check C:\WINDOWS\FONTS\smaller.fon
+16 Feb 2021 01:19:23,189 main - checkFontfile check C:\WINDOWS\FONTS\smallet.fon
+16 Feb 2021 01:19:23,189 main - checkFontfile check C:\WINDOWS\FONTS\smallf.fon
+16 Feb 2021 01:19:23,190 main - checkFontfile check C:\WINDOWS\FONTS\smallfe.fon
+16 Feb 2021 01:19:23,190 main - checkFontfile check C:\WINDOWS\FONTS\smallfg.fon
+16 Feb 2021 01:19:23,191 main - checkFontfile check C:\WINDOWS\FONTS\smallfr.fon
+16 Feb 2021 01:19:23,191 main - checkFontfile check C:\WINDOWS\FONTS\smallft.fon
+16 Feb 2021 01:19:23,191 main - checkFontfile check C:\WINDOWS\FONTS\SNAP____.TTF
+16 Feb 2021 01:19:23,191 main - checkFontfile found C:\WINDOWS\FONTS\SNAP____.TTF
+16 Feb 2021 01:19:23,192 main - checkFontfile check C:\WINDOWS\FONTS\ssee1255.fon
+16 Feb 2021 01:19:23,193 main - checkFontfile check C:\WINDOWS\FONTS\ssee1256.fon
+16 Feb 2021 01:19:23,193 main - checkFontfile check C:\WINDOWS\FONTS\ssee1257.fon
+16 Feb 2021 01:19:23,193 main - checkFontfile check C:\WINDOWS\FONTS\ssee874.fon
+16 Feb 2021 01:19:23,194 main - checkFontfile check C:\WINDOWS\FONTS\ssef1255.fon
+16 Feb 2021 01:19:23,194 main - checkFontfile check C:\WINDOWS\FONTS\ssef1256.fon
+16 Feb 2021 01:19:23,194 main - checkFontfile check C:\WINDOWS\FONTS\ssef1257.fon
+16 Feb 2021 01:19:23,195 main - checkFontfile check C:\WINDOWS\FONTS\ssef874.fon
+16 Feb 2021 01:19:23,195 main - checkFontfile check C:\WINDOWS\FONTS\sserife.fon
+16 Feb 2021 01:19:23,195 main - checkFontfile check C:\WINDOWS\FONTS\sserifee.fon
+16 Feb 2021 01:19:23,196 main - checkFontfile check C:\WINDOWS\FONTS\sserifeg.fon
+16 Feb 2021 01:19:23,196 main - checkFontfile check C:\WINDOWS\FONTS\sserifer.fon
+16 Feb 2021 01:19:23,197 main - checkFontfile check C:\WINDOWS\FONTS\sserifet.fon
+16 Feb 2021 01:19:23,197 main - checkFontfile check C:\WINDOWS\FONTS\sseriff.fon
+16 Feb 2021 01:19:23,197 main - checkFontfile check C:\WINDOWS\FONTS\sseriffe.fon
+16 Feb 2021 01:19:23,198 main - checkFontfile check C:\WINDOWS\FONTS\sseriffg.fon
+16 Feb 2021 01:19:23,198 main - checkFontfile check C:\WINDOWS\FONTS\sseriffr.fon
+16 Feb 2021 01:19:23,199 main - checkFontfile check C:\WINDOWS\FONTS\sserifft.fon
+16 Feb 2021 01:19:23,199 main - checkFontfile check C:\WINDOWS\FONTS\StaticCache.dat
+16 Feb 2021 01:19:23,199 main - checkFontfile check C:\WINDOWS\FONTS\STENCIL.TTF
+16 Feb 2021 01:19:23,200 main - checkFontfile found C:\WINDOWS\FONTS\STENCIL.TTF
+16 Feb 2021 01:19:23,200 main - checkFontfile check C:\WINDOWS\FONTS\svgafix.fon
+16 Feb 2021 01:19:23,200 main - checkFontfile check C:\WINDOWS\FONTS\svgasys.fon
+16 Feb 2021 01:19:23,201 main - checkFontfile check C:\WINDOWS\FONTS\sylfaen.ttf
+16 Feb 2021 01:19:23,201 main - checkFontfile found C:\WINDOWS\FONTS\sylfaen.ttf
+16 Feb 2021 01:19:23,201 main - checkFontfile check C:\WINDOWS\FONTS\symbol.ttf
+16 Feb 2021 01:19:23,201 main - checkFontfile found C:\WINDOWS\FONTS\symbol.ttf
+16 Feb 2021 01:19:23,202 main - checkFontfile check C:\WINDOWS\FONTS\tahoma.ttf
+16 Feb 2021 01:19:23,202 main - checkFontfile found C:\WINDOWS\FONTS\tahoma.ttf
+16 Feb 2021 01:19:23,203 main - checkFontfile check C:\WINDOWS\FONTS\tahomabd.ttf
+16 Feb 2021 01:19:23,204 main - checkFontfile found C:\WINDOWS\FONTS\tahomabd.ttf
+16 Feb 2021 01:19:23,204 main - checkFontfile check C:\WINDOWS\FONTS\taile.ttf
+16 Feb 2021 01:19:23,205 main - checkFontfile found C:\WINDOWS\FONTS\taile.ttf
+16 Feb 2021 01:19:23,205 main - checkFontfile check C:\WINDOWS\FONTS\taileb.ttf
+16 Feb 2021 01:19:23,205 main - checkFontfile found C:\WINDOWS\FONTS\taileb.ttf
+16 Feb 2021 01:19:23,206 main - checkFontfile check C:\WINDOWS\FONTS\TCBI____.TTF
+16 Feb 2021 01:19:23,206 main - checkFontfile found C:\WINDOWS\FONTS\TCBI____.TTF
+16 Feb 2021 01:19:23,206 main - checkFontfile check C:\WINDOWS\FONTS\TCB_____.TTF
+16 Feb 2021 01:19:23,206 main - checkFontfile found C:\WINDOWS\FONTS\TCB_____.TTF
+16 Feb 2021 01:19:23,207 main - checkFontfile check C:\WINDOWS\FONTS\TCCB____.TTF
+16 Feb 2021 01:19:23,207 main - checkFontfile found C:\WINDOWS\FONTS\TCCB____.TTF
+16 Feb 2021 01:19:23,208 main - checkFontfile check C:\WINDOWS\FONTS\TCCEB.TTF
+16 Feb 2021 01:19:23,208 main - checkFontfile found C:\WINDOWS\FONTS\TCCEB.TTF
+16 Feb 2021 01:19:23,208 main - checkFontfile check C:\WINDOWS\FONTS\TCCM____.TTF
+16 Feb 2021 01:19:23,209 main - checkFontfile found C:\WINDOWS\FONTS\TCCM____.TTF
+16 Feb 2021 01:19:23,209 main - checkFontfile check C:\WINDOWS\FONTS\TCMI____.TTF
+16 Feb 2021 01:19:23,209 main - checkFontfile found C:\WINDOWS\FONTS\TCMI____.TTF
+16 Feb 2021 01:19:23,210 main - checkFontfile check C:\WINDOWS\FONTS\TCM_____.TTF
+16 Feb 2021 01:19:23,210 main - checkFontfile found C:\WINDOWS\FONTS\TCM_____.TTF
+16 Feb 2021 01:19:23,210 main - checkFontfile check C:\WINDOWS\FONTS\TEMPSITC.TTF
+16 Feb 2021 01:19:23,210 main - checkFontfile found C:\WINDOWS\FONTS\TEMPSITC.TTF
+16 Feb 2021 01:19:23,211 main - checkFontfile check C:\WINDOWS\FONTS\times.ttf
+16 Feb 2021 01:19:23,211 main - checkFontfile found C:\WINDOWS\FONTS\times.ttf
+16 Feb 2021 01:19:23,211 main - checkFontfile check C:\WINDOWS\FONTS\timesbd.ttf
+16 Feb 2021 01:19:23,212 main - checkFontfile found C:\WINDOWS\FONTS\timesbd.ttf
+16 Feb 2021 01:19:23,212 main - checkFontfile check C:\WINDOWS\FONTS\timesbi.ttf
+16 Feb 2021 01:19:23,212 main - checkFontfile found C:\WINDOWS\FONTS\timesbi.ttf
+16 Feb 2021 01:19:23,212 main - checkFontfile check C:\WINDOWS\FONTS\timesi.ttf
+16 Feb 2021 01:19:23,213 main - checkFontfile found C:\WINDOWS\FONTS\timesi.ttf
+16 Feb 2021 01:19:23,213 main - checkFontfile check C:\WINDOWS\FONTS\trebuc.ttf
+16 Feb 2021 01:19:23,213 main - checkFontfile found C:\WINDOWS\FONTS\trebuc.ttf
+16 Feb 2021 01:19:23,214 main - checkFontfile check C:\WINDOWS\FONTS\trebucbd.ttf
+16 Feb 2021 01:19:23,214 main - checkFontfile found C:\WINDOWS\FONTS\trebucbd.ttf
+16 Feb 2021 01:19:23,214 main - checkFontfile check C:\WINDOWS\FONTS\trebucbi.ttf
+16 Feb 2021 01:19:23,215 main - checkFontfile found C:\WINDOWS\FONTS\trebucbi.ttf
+16 Feb 2021 01:19:23,215 main - checkFontfile check C:\WINDOWS\FONTS\trebucit.ttf
+16 Feb 2021 01:19:23,215 main - checkFontfile found C:\WINDOWS\FONTS\trebucit.ttf
+16 Feb 2021 01:19:23,215 main - checkFontfile check C:\WINDOWS\FONTS\verdana.ttf
+16 Feb 2021 01:19:23,215 main - checkFontfile found C:\WINDOWS\FONTS\verdana.ttf
+16 Feb 2021 01:19:23,216 main - checkFontfile check C:\WINDOWS\FONTS\verdanab.ttf
+16 Feb 2021 01:19:23,216 main - checkFontfile found C:\WINDOWS\FONTS\verdanab.ttf
+16 Feb 2021 01:19:23,216 main - checkFontfile check C:\WINDOWS\FONTS\verdanai.ttf
+16 Feb 2021 01:19:23,216 main - checkFontfile found C:\WINDOWS\FONTS\verdanai.ttf
+16 Feb 2021 01:19:23,217 main - checkFontfile check C:\WINDOWS\FONTS\verdanaz.ttf
+16 Feb 2021 01:19:23,217 main - checkFontfile found C:\WINDOWS\FONTS\verdanaz.ttf
+16 Feb 2021 01:19:23,218 main - checkFontfile check C:\WINDOWS\FONTS\vga737.fon
+16 Feb 2021 01:19:23,218 main - checkFontfile check C:\WINDOWS\FONTS\vga775.fon
+16 Feb 2021 01:19:23,219 main - checkFontfile check C:\WINDOWS\FONTS\vga850.fon
+16 Feb 2021 01:19:23,220 main - checkFontfile check C:\WINDOWS\FONTS\vga852.fon
+16 Feb 2021 01:19:23,220 main - checkFontfile check C:\WINDOWS\FONTS\vga855.fon
+16 Feb 2021 01:19:23,221 main - checkFontfile check C:\WINDOWS\FONTS\vga857.fon
+16 Feb 2021 01:19:23,222 main - checkFontfile check C:\WINDOWS\FONTS\vga860.fon
+16 Feb 2021 01:19:23,222 main - checkFontfile check C:\WINDOWS\FONTS\vga861.fon
+16 Feb 2021 01:19:23,223 main - checkFontfile check C:\WINDOWS\FONTS\vga863.fon
+16 Feb 2021 01:19:23,223 main - checkFontfile check C:\WINDOWS\FONTS\vga865.fon
+16 Feb 2021 01:19:23,224 main - checkFontfile check C:\WINDOWS\FONTS\vga866.fon
+16 Feb 2021 01:19:23,224 main - checkFontfile check C:\WINDOWS\FONTS\vga869.fon
+16 Feb 2021 01:19:23,224 main - checkFontfile check C:\WINDOWS\FONTS\vga932.fon
+16 Feb 2021 01:19:23,225 main - checkFontfile check C:\WINDOWS\FONTS\vga936.fon
+16 Feb 2021 01:19:23,225 main - checkFontfile check C:\WINDOWS\FONTS\vga949.fon
+16 Feb 2021 01:19:23,225 main - checkFontfile check C:\WINDOWS\FONTS\vga950.fon
+16 Feb 2021 01:19:23,226 main - checkFontfile check C:\WINDOWS\FONTS\vgaf1255.fon
+16 Feb 2021 01:19:23,226 main - checkFontfile check C:\WINDOWS\FONTS\vgaf1256.fon
+16 Feb 2021 01:19:23,226 main - checkFontfile check C:\WINDOWS\FONTS\vgaf1257.fon
+16 Feb 2021 01:19:23,227 main - checkFontfile check C:\WINDOWS\FONTS\vgaf874.fon
+16 Feb 2021 01:19:23,227 main - checkFontfile check C:\WINDOWS\FONTS\vgafix.fon
+16 Feb 2021 01:19:23,227 main - checkFontfile check C:\WINDOWS\FONTS\vgafixe.fon
+16 Feb 2021 01:19:23,228 main - checkFontfile check C:\WINDOWS\FONTS\vgafixg.fon
+16 Feb 2021 01:19:23,228 main - checkFontfile check C:\WINDOWS\FONTS\vgafixr.fon
+16 Feb 2021 01:19:23,229 main - checkFontfile check C:\WINDOWS\FONTS\vgafixt.fon
+16 Feb 2021 01:19:23,229 main - checkFontfile check C:\WINDOWS\FONTS\vgaoem.fon
+16 Feb 2021 01:19:23,230 main - checkFontfile check C:\WINDOWS\FONTS\vgas1255.fon
+16 Feb 2021 01:19:23,230 main - checkFontfile check C:\WINDOWS\FONTS\vgas1256.fon
+16 Feb 2021 01:19:23,231 main - checkFontfile check C:\WINDOWS\FONTS\vgas1257.fon
+16 Feb 2021 01:19:23,231 main - checkFontfile check C:\WINDOWS\FONTS\vgas874.fon
+16 Feb 2021 01:19:23,231 main - checkFontfile check C:\WINDOWS\FONTS\vgasys.fon
+16 Feb 2021 01:19:23,232 main - checkFontfile check C:\WINDOWS\FONTS\vgasyse.fon
+16 Feb 2021 01:19:23,232 main - checkFontfile check C:\WINDOWS\FONTS\vgasysg.fon
+16 Feb 2021 01:19:23,233 main - checkFontfile check C:\WINDOWS\FONTS\vgasysr.fon
+16 Feb 2021 01:19:23,233 main - checkFontfile check C:\WINDOWS\FONTS\vgasyst.fon
+16 Feb 2021 01:19:23,234 main - checkFontfile check C:\WINDOWS\FONTS\VINERITC.TTF
+16 Feb 2021 01:19:23,234 main - checkFontfile found C:\WINDOWS\FONTS\VINERITC.TTF
+16 Feb 2021 01:19:23,234 main - checkFontfile check C:\WINDOWS\FONTS\VIVALDII.TTF
+16 Feb 2021 01:19:23,234 main - checkFontfile found C:\WINDOWS\FONTS\VIVALDII.TTF
+16 Feb 2021 01:19:23,234 main - checkFontfile check C:\WINDOWS\FONTS\VLADIMIR.TTF
+16 Feb 2021 01:19:23,235 main - checkFontfile found C:\WINDOWS\FONTS\VLADIMIR.TTF
+16 Feb 2021 01:19:23,235 main - checkFontfile check C:\WINDOWS\FONTS\webdings.ttf
+16 Feb 2021 01:19:23,235 main - checkFontfile found C:\WINDOWS\FONTS\webdings.ttf
+16 Feb 2021 01:19:23,236 main - checkFontfile check C:\WINDOWS\FONTS\wingding.ttf
+16 Feb 2021 01:19:23,236 main - checkFontfile found C:\WINDOWS\FONTS\wingding.ttf
+16 Feb 2021 01:19:23,237 main - checkFontfile check C:\WINDOWS\FONTS\WINGDNG2.TTF
+16 Feb 2021 01:19:23,237 main - checkFontfile found C:\WINDOWS\FONTS\WINGDNG2.TTF
+16 Feb 2021 01:19:23,239 main - checkFontfile check C:\WINDOWS\FONTS\WINGDNG3.TTF
+16 Feb 2021 01:19:23,239 main - checkFontfile found C:\WINDOWS\FONTS\WINGDNG3.TTF
+16 Feb 2021 01:19:23,239 main - checkFontfile check C:\WINDOWS\FONTS\YuGothB.ttc
+16 Feb 2021 01:19:23,239 main - checkFontfile found C:\WINDOWS\FONTS\YuGothB.ttc
+16 Feb 2021 01:19:23,240 main - checkFontfile check C:\WINDOWS\FONTS\YuGothL.ttc
+16 Feb 2021 01:19:23,240 main - checkFontfile found C:\WINDOWS\FONTS\YuGothL.ttc
+16 Feb 2021 01:19:23,240 main - checkFontfile check C:\WINDOWS\FONTS\YuGothM.ttc
+16 Feb 2021 01:19:23,241 main - checkFontfile found C:\WINDOWS\FONTS\YuGothM.ttc
+16 Feb 2021 01:19:23,241 main - checkFontfile check C:\WINDOWS\FONTS\YuGothR.ttc
+16 Feb 2021 01:19:23,241 main - checkFontfile found C:\WINDOWS\FONTS\YuGothR.ttc
+16 Feb 2021 01:19:23,333 main - getFont('TTF','TimesNewRomanPSMT') returns TimesNewRomanPSMT (TTF, mac: 0x0, os/2: 0x105, cid: null) C:\WINDOWS\FONTS\times.ttf
+16 Feb 2021 01:19:23,355 main - Loaded TimesNewRomanPSMT from C:\WINDOWS\FONTS\times.ttf
+16 Feb 2021 01:19:23,362 main - getFont('TTF','TimesNewRomanPS-BoldMT') returns TimesNewRomanPS-BoldMT (TTF, mac: 0x1, os/2: 0x105, cid: null) C:\WINDOWS\FONTS\timesbd.ttf
+16 Feb 2021 01:19:23,363 main - Loaded TimesNewRomanPS-BoldMT from C:\WINDOWS\FONTS\timesbd.ttf
+16 Feb 2021 01:19:23,367 main - getFont('TTF','TimesNewRomanPS-ItalicMT') returns TimesNewRomanPS-ItalicMT (TTF, mac: 0x2, os/2: 0x105, cid: null) C:\WINDOWS\FONTS\timesi.ttf
+16 Feb 2021 01:19:23,368 main - Loaded TimesNewRomanPS-ItalicMT from C:\WINDOWS\FONTS\timesi.ttf
+16 Feb 2021 01:19:23,372 main - getFont('TTF','TimesNewRomanPS-BoldItalicMT') returns TimesNewRomanPS-BoldItalicMT (TTF, mac: 0x3, os/2: 0x105, cid: null) C:\WINDOWS\FONTS\timesbi.ttf
+16 Feb 2021 01:19:23,373 main - Loaded TimesNewRomanPS-BoldItalicMT from C:\WINDOWS\FONTS\timesbi.ttf
+16 Feb 2021 01:19:23,375 main - getFont('TTF','ArialMT') returns ArialMT (TTF, mac: 0x0, os/2: 0x805, cid: null) C:\WINDOWS\FONTS\arial.ttf
+16 Feb 2021 01:19:23,376 main - Loaded ArialMT from C:\WINDOWS\FONTS\arial.ttf
+16 Feb 2021 01:19:23,379 main - getFont('TTF','Arial-BoldMT') returns Arial-BoldMT (TTF, mac: 0x1, os/2: 0x805, cid: null) C:\WINDOWS\FONTS\arialbd.ttf
+16 Feb 2021 01:19:23,379 main - Loaded Arial-BoldMT from C:\WINDOWS\FONTS\arialbd.ttf
+16 Feb 2021 01:19:23,383 main - getFont('TTF','Arial-ItalicMT') returns Arial-ItalicMT (TTF, mac: 0x2, os/2: 0x805, cid: null) C:\WINDOWS\FONTS\ariali.ttf
+16 Feb 2021 01:19:23,384 main - Loaded Arial-ItalicMT from C:\WINDOWS\FONTS\ariali.ttf
+16 Feb 2021 01:19:23,392 main - getFont('TTF','Arial-BoldItalicMT') returns Arial-BoldItalicMT (TTF, mac: 0x3, os/2: 0x805, cid: null) C:\WINDOWS\FONTS\arialbi.ttf
+16 Feb 2021 01:19:23,393 main - Loaded Arial-BoldItalicMT from C:\WINDOWS\FONTS\arialbi.ttf
+16 Feb 2021 01:19:23,397 main - getFont('TTF','CourierNewPSMT') returns CourierNewPSMT (TTF, mac: 0x0, os/2: 0x505, cid: null) C:\WINDOWS\FONTS\cour.ttf
+16 Feb 2021 01:19:23,397 main - Loaded CourierNewPSMT from C:\WINDOWS\FONTS\cour.ttf
+16 Feb 2021 01:19:23,401 main - getFont('TTF','CourierNewPS-BoldMT') returns CourierNewPS-BoldMT (TTF, mac: 0x1, os/2: 0x505, cid: null) C:\WINDOWS\FONTS\courbd.ttf
+16 Feb 2021 01:19:23,401 main - Loaded CourierNewPS-BoldMT from C:\WINDOWS\FONTS\courbd.ttf
+16 Feb 2021 01:19:23,406 main - getFont('TTF','CourierNewPS-ItalicMT') returns CourierNewPS-ItalicMT (TTF, mac: 0x2, os/2: 0x505, cid: null) C:\WINDOWS\FONTS\couri.ttf
+16 Feb 2021 01:19:23,407 main - Loaded CourierNewPS-ItalicMT from C:\WINDOWS\FONTS\couri.ttf
+16 Feb 2021 01:19:23,409 main - getFont('TTF','CourierNewPS-BoldItalicMT') returns CourierNewPS-BoldItalicMT (TTF, mac: 0x3, os/2: 0x505, cid: null) C:\WINDOWS\FONTS\courbi.ttf
+16 Feb 2021 01:19:23,410 main - Loaded CourierNewPS-BoldItalicMT from C:\WINDOWS\FONTS\courbi.ttf
+16 Feb 2021 01:19:23,413 main - getFont('TTF','SymbolMT') returns SymbolMT (TTF, mac: 0x0, os/2: 0xc03, cid: null) C:\WINDOWS\FONTS\symbol.ttf
+16 Feb 2021 01:19:23,413 main - Loaded SymbolMT from C:\WINDOWS\FONTS\symbol.ttf
+16 Feb 2021 01:19:23,415 main - getFont('TTF','MS-Gothic') returns MS-Gothic (TTF, mac: 0x0, os/2: 0x801, cid: null) C:\WINDOWS\FONTS\msgothic.ttc
+16 Feb 2021 01:19:23,422 main - Loaded MS-Gothic from C:\WINDOWS\FONTS\msgothic.ttc

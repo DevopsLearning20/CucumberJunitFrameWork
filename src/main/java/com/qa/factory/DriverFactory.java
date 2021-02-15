@@ -11,7 +11,7 @@ public class DriverFactory {
     public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<>();
 
     /***
-     * this method is used to initialization the method
+     * this method is used to initialization of the driver method
      * @param browser = name of the browser
      * @return current instance of the driver
      */

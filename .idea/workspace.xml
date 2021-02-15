@@ -4,47 +4,26 @@
     <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="All Places" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/test/java/StepDefinations/LoginPageSteps.java" description="loginpage.checkLoginPageBrokenLinks();" line="73" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6fa6761-b59e-4d98-b296-095391e9fd0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/AppFeatures/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/Careers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/CareersPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/activityLog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/util/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinations/AppHooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinations/LoginPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/LoginPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testrunners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testrunners/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config/cucumber.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config/extent-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config/extent.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/featurefiles/Careers.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/featurefiles/Login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pages/Careers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/factory/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/factory/DriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/util/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/util/ConfigReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/util/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/util/ElementUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/util/ElementUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinations/AppHooks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinations/LoginPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinations/LoginPageSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config/cucumber.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config/extent-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config/extent.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/featurefiles/Careers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/featurefiles/Careers.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/featurefiles/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/featurefiles/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testrunners/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testrunners/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AppFeatures/Careers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AppFeatures/Careers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/featurefiles/Careers.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/featurefiles/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test output/PdfReport/ExtentPdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/test output/PdfReport/ExtentPdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/SparkReport/Spark.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/SparkReport/Spark.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jenkinsfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../activityLog.log.1" beforeDir="false" />
@@ -84,126 +63,10 @@
       <change beforePath="$PROJECT_DIR$/../src/test/resources/testrunners/testng_regression_chrome.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/test/resources/testrunners/testng_sanity.xml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/ApplicationHooks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1027">
-              <caret line="11" column="91" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="91" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testrunners/TestRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/activityLog.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/util/ConfigReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/util/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/CareersPageSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="42" column="87" selection-start-line="42" selection-start-column="87" selection-end-line="42" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -218,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/resources/config/config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinations/AppHooks.java" />
         <option value="$PROJECT_DIR$/src/test/resources/config/extent-config.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/config/cucumber.properties" />
@@ -230,12 +92,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qa/util/ConfigReader.java" />
         <option value="$PROJECT_DIR$/src/test/resources/featurefiles/Login.feature" />
         <option value="$PROJECT_DIR$/src/main/java/com/qa/util/Constant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinations/ApplicationHooks.java" />
         <option value="$PROJECT_DIR$/src/test/resources/extent-config.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/extent.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/featurefiles/Careers.feature" />
-        <option value="$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/AppFeatures/Login.feature" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
@@ -246,14 +106,10 @@
         <option value="$PROJECT_DIR$/src/test/java/StepDefinations/CareersPageSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/testrunners/TestRunner.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -283,6 +139,7 @@
     <option name="width" value="1386" />
     <option name="height" value="787" />
   </component>
+  <component name="ProjectId" id="1oXE1vm4WJ35SXcBsWmzcEQYNAW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -291,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,18 +159,28 @@
             <path>
               <item name="CucumberJunitFrameWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="CucumberJunitFrameWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberJunitFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberJunitFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="test output" type="462c0819:PsiDirectoryNode" />
+              <item name="PdfReport" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613411089603" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613421588325" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -328,18 +196,6 @@
       <recent name="E:\Automation\CucumberJunitFrameWork\src\test" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberJunitFrameWork" />
@@ -351,6 +207,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testrunners" />
       <option name="MAIN_CLASS_NAME" value="testrunners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -361,6 +218,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -375,9 +233,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner - 2021.02.15 at 20h 59m 44s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRunner - 2021.02.15 at 21h 10m 09s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
@@ -405,11 +260,14 @@
     <history-entry file="TestRunner - 2021.02.15 at 21h 50m 03s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestRunner - 2021.02.16 at 01h 19m 26s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,12 +277,12 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.07482993" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.11394558" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -471,13 +329,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/pages/CareersPage.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/StepDefinations/LoginPageSteps.java</url>
           <line>73</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
@@ -490,13 +346,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/cucumber.properties" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pages/DashBoardPage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/featurefiles/DashBoard.feature" />
@@ -570,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/AppFeatures/Login.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -618,9 +460,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/ApplicationHooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1027">
+        <state relative-caret-position="102">
           <caret line="11" column="91" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -628,13 +480,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activityLog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16810">
+          <caret line="22" column="135" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/AppFeatures/Careers.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -655,29 +535,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/ApplicationHooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/CareersPageSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
+        <state relative-caret-position="17">
           <caret line="42" column="87" selection-start-line="42" selection-start-column="87" selection-end-line="42" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -695,16 +555,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="154">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activityLog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
       </provider>
     </entry>
   </component>
